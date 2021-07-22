@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="70" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Shadow" ascendClassName="Saboteur" mainSocketGroup="1" viewMode="SKILLS" pantheonMinorGod="None">
-		<PlayerStat stat="AverageHit" value="9565.61712444"/>
-		<PlayerStat stat="AverageDamage" value="9565.61712444"/>
+	<Build level="70" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Shadow" ascendClassName="Saboteur" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="None">
+		<PlayerStat stat="AverageHit" value="10245.38295924"/>
+		<PlayerStat stat="AverageDamage" value="10245.38295924"/>
 		<PlayerStat stat="Speed" value="2.16"/>
 		<PlayerStat stat="Speed" value="2.16"/>
 		<PlayerStat stat="Speed" value="2.16"/>
 		<PlayerStat stat="TrapThrowingTime" value="0.46296296296296"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="31.8"/>
-		<PlayerStat stat="CritChance" value="31.8"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="37.8"/>
+		<PlayerStat stat="CritChance" value="37.8"/>
 		<PlayerStat stat="CritMultiplier" value="2.9"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="20661.73298879"/>
-		<PlayerStat stat="TotalDPS" value="20661.73298879"/>
+		<PlayerStat stat="TotalDPS" value="22130.027191958"/>
+		<PlayerStat stat="TotalDPS" value="22130.027191958"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="9565.61712444"/>
-		<PlayerStat stat="WithIgniteDPS" value="9565.61712444"/>
-		<PlayerStat stat="WithPoisonDPS" value="9565.61712444"/>
+		<PlayerStat stat="WithBleedDPS" value="10245.38295924"/>
+		<PlayerStat stat="WithIgniteDPS" value="10245.38295924"/>
+		<PlayerStat stat="WithPoisonDPS" value="10245.38295924"/>
 		<PlayerStat stat="TotalDotDPS" value="0"/>
-		<PlayerStat stat="CombinedDPS" value="9565.61712444"/>
-		<PlayerStat stat="CombinedAvg" value="9565.61712444"/>
+		<PlayerStat stat="CombinedDPS" value="10245.38295924"/>
+		<PlayerStat stat="CombinedAvg" value="10245.38295924"/>
 		<PlayerStat stat="ManaCost" value="36"/>
 		<PlayerStat stat="LifeCost" value="0"/>
 		<PlayerStat stat="ESCost" value="0"/>
@@ -71,7 +71,7 @@
 		<PlayerStat stat="ChaosResist" value="-60"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="FullDPS" value="0"/>
-		<PlayerStat stat="SkillDPS" value="table: 0x1e43c860"/>
+		<PlayerStat stat="SkillDPS" value="table: 0x2561bee8"/>
 		<PlayerStat stat="PowerCharges" value="3"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="3"/>
@@ -131,17 +131,17 @@
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Body Armour" mainActiveSkill="1">
 			<Gem enableGlobal2="true" level="15" enableGlobal1="true" skillId="VaalDiscipline" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemVaalDiscipline" quality="0" enabled="true" count="1" nameSpec="Vaal Discipline"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" groupCount="nil" enabled="true" mainActiveSkill="nil">
-			<Gem enableGlobal2="nil" level="15" enableGlobal1="true" skillId="SupportCastOnDamageTaken" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" quality="0" enabled="true" count="1" nameSpec="Cast when Damage Taken" skillMinion="SkitterbotCold"/>
-			<Gem enableGlobal2="nil" level="15" enableGlobal1="true" skillId="QuickGuard" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemSteelskin" quality="0" enabled="true" count="1" nameSpec="Steelskin" skillMinion="SkitterbotCold"/>
-			<Gem enableGlobal2="nil" level="15" enableGlobal1="true" skillId="Enfeeble" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemEnfeeble" quality="0" enabled="true" count="1" nameSpec="Enfeeble" skillMinion="SkitterbotCold"/>
+		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" level="15" enableGlobal1="true" skillId="SupportCastOnDamageTaken" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemCastOnDamageTaken" quality="0" enabled="true" count="1" nameSpec="Cast when Damage Taken" skillMinion="SkitterbotCold"/>
+			<Gem enableGlobal2="false" level="15" enableGlobal1="true" skillId="QuickGuard" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemSteelskin" quality="0" enabled="true" count="1" nameSpec="Steelskin" skillMinion="SkitterbotCold"/>
+			<Gem enableGlobal2="false" level="15" enableGlobal1="true" skillId="Enfeeble" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemEnfeeble" quality="0" enabled="true" count="1" nameSpec="Enfeeble" skillMinion="SkitterbotCold"/>
 		</Skill>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="3" nodes="33777,2260,60949,13191,16940,27656,63976,38129,13714,65167,60090,12824,27788,14182,49605,42731,49929,9877,46910,55380,7614,63639,61981,17236,55247,28535,1006,64842,48778,22473,61834,55485,16775,35894,10490,42583,33479,46277,31583,18769,1655,25757,51923,10763,60440,62577,38190,61653,36858,60405,18635,1822,32710,40362,18865,25260,41081,46965,8027,21835,35283,35334,13322,3452,47507,29549,41263,5087,61689,7641,59556,28753,30319,28754,4502,25058,869,18182,21297,62069,15073,27962,14211,63799,56295,44683,3656,61320,19939,32432,24050,53456,11430,45827,46092,31501,34882,62021,65034,1600,37671" treeVersion="3_15" classId="6">
+		<Spec ascendClassId="3" nodes="33777,2260,60949,13191,16940,27656,63976,38129,13714,61653,25260,12824,27788,14182,49605,42731,49929,9877,46910,55380,61320,1006,61981,17236,27962,65034,28535,60405,56295,3656,1655,55485,7614,35894,19939,11430,41081,24050,31583,18769,61834,46092,51923,10763,60440,62577,38190,48778,36858,64842,22473,1822,32710,40362,18865,53456,18635,46965,8027,65167,34882,35334,13322,3452,15073,29549,62069,5087,61689,7641,28753,18182,30319,28754,4502,25058,869,59556,21297,41263,47507,14211,16775,63799,60090,44683,21835,10490,25757,32432,46277,35283,42583,45827,55247,31501,63639,62021,33479,1600,37671" treeVersion="3_15" classId="6">
 			<EditedNodes/>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABAYDAIPxCNTuFTOHQixsCPnolPE1kv6P6royGGyMN2bBxabrwwkmlbc-2FQdvviX8h1DVNfPb3cD7v1KvopXyfGK2L1Bh4w2KPqmV4LHtMV7X0lRBndkncrTKgvsGPRxlS7w1Y_66_UHHn_GnapJsWKsoHm3dR9bVUuJ04oGNAoNfLmTc22hLxPf8Pkd2eikcFF2b3BSEZZh4gNlRwZTMfJ1OuFtOjeD-Tfb5w5I74hN436wXfLQ0CymswO0DHsNiELyRf4KBkCTJw==
+				https://www.pathofexile.com/passive-skill-tree/AAAABAYDAIPxCNTuFTOHQixsCPnolPE1kvDVYqwyGGyMN2bBxabrwwkmlbc-2FTviAPu8h1DVG06_gpvd-v12-cOSAZ32L0dvow2TeMspqB5XfJ7X0lR8Yq0DMrTKgvsGPRxlS6-io_6_UpXyQcef8adqkmx0NC3dR9b_o-IQooGNAoNfDrhc23ydRPf8Pkd2XBRRwZ2b3BSEZZh4gNl6KRTMaEvuZM3g0GH-TfqulVLKPpknX6wtMWJ06ZXswPXz3sN-JfyRYLHBkCTJw==
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="0"/>
@@ -155,49 +155,49 @@
 				<Socket nodeId="36634" itemId="0"/>
 				<Socket nodeId="29712" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
 				<Socket nodeId="33753" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
-				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="14993" itemId="0"/>
 				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
 				<Socket nodeId="46519" itemId="0"/>
 				<Socket nodeId="40400" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
 				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
 				<Socket nodeId="46393" itemId="0"/>
 				<Socket nodeId="23756" itemId="0"/>
 				<Socket nodeId="59585" itemId="0"/>
 				<Socket nodeId="32763" itemId="0"/>
-				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
 				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
-				<Socket nodeId="61288" itemId="0"/>
 				<Socket nodeId="49080" itemId="0"/>
-				<Socket nodeId="24970" itemId="0"/>
+				<Socket nodeId="61288" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
 				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="61419" itemId="0"/>
 				<Socket nodeId="17219" itemId="0"/>
 				<Socket nodeId="23984" itemId="0"/>
 				<Socket nodeId="61666" itemId="0"/>
-				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
 				<Socket nodeId="22748" itemId="0"/>
 				<Socket nodeId="51198" itemId="0"/>
 				<Socket nodeId="41263" itemId="1"/>
-				<Socket nodeId="44169" itemId="0"/>
-				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
 				<Socket nodeId="34483" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="12613" itemId="0"/>
-				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
 				<Socket nodeId="61305" itemId="0"/>
@@ -207,7 +207,7 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="244.755" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="-347.0137962963"/>
+	<TreeView searchStr="" zoomY="170.42090192044" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="-701.53476794696"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			Rarity: UNIQUE
@@ -298,28 +298,6 @@ Implicits: 0
 +15 to maximum Mana
 +20% to Fire Resistance
 +10 Life gained on Kill
-		</Item>
-		<Item id="7">
-			Rarity: NORMAL
-Crystal Wand
-Unique ID: 0b2255760ebe45bcce1334276a289fc445d192a31d69b6b7feb64e00bb831b21
-Item Level: 48
-Quality: 0
-Sockets: B-B B
-LevelReq: 45
-Implicits: 1
-31% increased Spell Damage
-		</Item>
-		<Item id="8">
-			Rarity: NORMAL
-Superior Spiraled Wand
-Unique ID: 1ef3227eda176c7674d2897f0f536814f5619b19bc207c12f15fc71ee063ec31
-Item Level: 48
-Quality: 7
-Sockets: B-B-B
-LevelReq: 24
-Implicits: 1
-19% increased Spell Damage
 		</Item>
 		<Item id="9">
 			Rarity: MAGIC
@@ -466,7 +444,7 @@ Implicits: 0
 			<ModRange range="0.5" id="3"/>
 		</Item>
 		<Slot name="Weapon 1" itemId="15"/>
-		<Slot name="Flask 3" itemId="16"/>
+		<Slot active="true" name="Flask 3" itemId="16"/>
 		<Slot name="Gloves" itemId="6"/>
 		<Slot name="Belt" itemId="4"/>
 		<Slot name="Flask 5" itemId="13"/>
@@ -474,8 +452,6 @@ Implicits: 0
 		<Slot name="Flask 1" itemId="9"/>
 		<Slot name="Flask 4" itemId="12"/>
 		<Slot name="Flask 2" itemId="14"/>
-		<Slot name="Weapon 2 Swap" itemId="7"/>
-		<Slot name="Weapon 1 Swap" itemId="8"/>
 		<Slot name="Ring 2" itemId="5"/>
 		<Slot name="Body Armour" itemId="17"/>
 		<Slot name="Ring 1" itemId="3"/>
@@ -488,7 +464,7 @@ Implicits: 0
 			<Slot name="Boots Abyssal Socket 5" itemId="0"/>
 			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
 			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
-			<Slot name="Flask 3" itemId="16"/>
+			<Slot active="true" name="Flask 3" itemId="16"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 3" itemId="0"/>
 			<Slot name="Weapon 1 Abyssal Socket 5" itemId="0"/>
 			<Slot name="Weapon 2 Abyssal Socket 5" itemId="0"/>
@@ -537,8 +513,8 @@ Implicits: 0
 			<Slot name="Boots Abyssal Socket 1" itemId="0"/>
 			<Slot name="Body Armour Abyssal Socket 4" itemId="0"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 4" itemId="0"/>
-			<Slot name="Weapon 2 Swap" itemId="7"/>
-			<Slot name="Weapon 1 Swap" itemId="8"/>
+			<Slot name="Weapon 2 Swap" itemId="0"/>
+			<Slot name="Weapon 1 Swap" itemId="0"/>
 			<Slot name="Weapon 1Swap Abyssal Socket 6" itemId="0"/>
 			<Slot name="Ring 2" itemId="5"/>
 			<Slot name="Gloves Abyssal Socket 2" itemId="0"/>
@@ -557,9 +533,9 @@ Implicits: 0
 	</Items>
 	<Config>
 		<Input name="useFrenzyCharges" boolean="true"/>
-		<Input name="waveOfConvictionExposureType" string="Lightning"/>
-		<Input name="usePowerCharges" boolean="true"/>
-		<Input name="multiplierTrapTriggeredRecently" number="5"/>
 		<Input name="enemyIsBoss" string="Sirus"/>
+		<Input name="waveOfConvictionExposureType" string="Lightning"/>
+		<Input name="multiplierTrapTriggeredRecently" number="5"/>
+		<Input name="usePowerCharges" boolean="true"/>
 	</Config>
 </PathOfBuilding>
