@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="90" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Ranger" ascendClassName="Raider" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="None">
-		<PlayerStat stat="AverageDamage" value="6.2439912378496"/>
-		<PlayerStat stat="Speed" value="1.508"/>
-		<PlayerStat stat="Speed" value="1.508"/>
-		<PlayerStat stat="Speed" value="1.508"/>
+		<PlayerStat stat="AverageDamage" value="4.0479173040318"/>
+		<PlayerStat stat="Speed" value="1.92"/>
+		<PlayerStat stat="Speed" value="1.92"/>
+		<PlayerStat stat="Speed" value="1.92"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="5"/>
-		<PlayerStat stat="CritChance" value="3.95"/>
+		<PlayerStat stat="CritChance" value="4.2"/>
 		<PlayerStat stat="CritMultiplier" value="1.5"/>
-		<PlayerStat stat="HitChance" value="79"/>
-		<PlayerStat stat="TotalDPS" value="9.4159387866771"/>
-		<PlayerStat stat="TotalDPS" value="9.4159387866771"/>
+		<PlayerStat stat="HitChance" value="84"/>
+		<PlayerStat stat="TotalDPS" value="7.7720012237411"/>
+		<PlayerStat stat="TotalDPS" value="7.7720012237411"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="9.4159387866771"/>
-		<PlayerStat stat="WithIgniteDPS" value="9.4159387866771"/>
-		<PlayerStat stat="WithPoisonDPS" value="9.4159387866771"/>
+		<PlayerStat stat="WithBleedDPS" value="7.7720012237411"/>
+		<PlayerStat stat="WithIgniteDPS" value="7.7720012237411"/>
+		<PlayerStat stat="WithPoisonDPS" value="7.7720012237411"/>
 		<PlayerStat stat="TotalDotDPS" value="0"/>
-		<PlayerStat stat="CombinedDPS" value="9.4159387866771"/>
-		<PlayerStat stat="CombinedAvg" value="9.4159387866771"/>
+		<PlayerStat stat="CombinedDPS" value="7.7720012237411"/>
+		<PlayerStat stat="CombinedAvg" value="7.7720012237411"/>
 		<PlayerStat stat="ManaCost" value="0"/>
 		<PlayerStat stat="LifeCost" value="0"/>
 		<PlayerStat stat="ESCost" value="0"/>
@@ -25,17 +25,17 @@
 		<PlayerStat stat="ManaPercentCost" value="0"/>
 		<PlayerStat stat="LifePercentCost" value="0"/>
 		<PlayerStat stat="Str" value="34"/>
-		<PlayerStat stat="ReqStr" value="113"/>
-		<PlayerStat stat="Dex" value="232"/>
+		<PlayerStat stat="ReqStr" value="104"/>
+		<PlayerStat stat="Dex" value="212"/>
 		<PlayerStat stat="ReqDex" value="197"/>
 		<PlayerStat stat="Int" value="14"/>
 		<PlayerStat stat="ReqInt" value="0"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="Life" value="2815"/>
-		<PlayerStat stat="Spec:LifeInc" value="145"/>
-		<PlayerStat stat="LifeUnreserved" value="2815"/>
+		<PlayerStat stat="Life" value="2794"/>
+		<PlayerStat stat="Spec:LifeInc" value="133"/>
+		<PlayerStat stat="LifeUnreserved" value="2794"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
-		<PlayerStat stat="LifeRegen" value="45.04"/>
+		<PlayerStat stat="LifeRegen" value="40.2336"/>
 		<PlayerStat stat="LifeLeechGainRate" value="0"/>
 		<PlayerStat stat="Mana" value="581"/>
 		<PlayerStat stat="Spec:ManaInc" value="0"/>
@@ -71,52 +71,52 @@
 		<PlayerStat stat="ChaosResist" value="-60"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="FullDPS" value="0"/>
-		<PlayerStat stat="SkillDPS" value="table: 0x200fd438"/>
+		<PlayerStat stat="SkillDPS" value="table: 0x21e97ba8"/>
 		<PlayerStat stat="PowerCharges" value="0"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
-		<PlayerStat stat="FrenzyCharges" value="0"/>
+		<PlayerStat stat="FrenzyCharges" value="3"/>
 		<PlayerStat stat="FrenzyChargesMax" value="3"/>
 		<PlayerStat stat="EnduranceCharges" value="0"/>
 		<PlayerStat stat="EnduranceChargesMax" value="3"/>
 	</Build>
 	<Import/>
 	<Calcs>
-		<Input name="skill_number" number="1"/>
 		<Input name="misc_buffMode" string="EFFECTIVE"/>
-		<Section collapsed="nil" id="SkillSelect"/>
-		<Section collapsed="nil" id="HitDamage"/>
-		<Section collapsed="nil" id="Warcries"/>
-		<Section collapsed="nil" id="Dot"/>
-		<Section collapsed="nil" id="Speed"/>
-		<Section collapsed="nil" id="Crit"/>
-		<Section collapsed="nil" id="Impale"/>
-		<Section collapsed="nil" id="SkillTypeStats"/>
-		<Section collapsed="nil" id="HitChance"/>
-		<Section collapsed="nil" id="Bleed"/>
-		<Section collapsed="nil" id="Poison"/>
-		<Section collapsed="nil" id="Ignite"/>
-		<Section collapsed="nil" id="Decay"/>
-		<Section collapsed="nil" id="LeechGain"/>
-		<Section collapsed="nil" id="EleAilments"/>
-		<Section collapsed="nil" id="MiscEffects"/>
-		<Section collapsed="nil" id="Attributes"/>
-		<Section collapsed="nil" id="Life"/>
-		<Section collapsed="nil" id="Mana"/>
-		<Section collapsed="nil" id="EnergyShield"/>
-		<Section collapsed="nil" id="Ward"/>
-		<Section collapsed="nil" id="Armour"/>
-		<Section collapsed="nil" id="Evasion"/>
-		<Section collapsed="nil" id="Resist"/>
-		<Section collapsed="nil" id="Block"/>
-		<Section collapsed="nil" id="MiscDefences"/>
-		<Section collapsed="nil" id="DamageTaken"/>
+		<Input name="skill_number" number="1"/>
+		<Section collapsed="false" id="SkillSelect"/>
+		<Section collapsed="false" id="HitDamage"/>
+		<Section collapsed="false" id="Warcries"/>
+		<Section collapsed="false" id="Dot"/>
+		<Section collapsed="false" id="Speed"/>
+		<Section collapsed="false" id="Crit"/>
+		<Section collapsed="false" id="Impale"/>
+		<Section collapsed="false" id="SkillTypeStats"/>
+		<Section collapsed="false" id="HitChance"/>
+		<Section collapsed="false" id="Bleed"/>
+		<Section collapsed="false" id="Poison"/>
+		<Section collapsed="false" id="Ignite"/>
+		<Section collapsed="false" id="Decay"/>
+		<Section collapsed="false" id="LeechGain"/>
+		<Section collapsed="false" id="EleAilments"/>
+		<Section collapsed="false" id="MiscEffects"/>
+		<Section collapsed="false" id="Attributes"/>
+		<Section collapsed="false" id="Life"/>
+		<Section collapsed="false" id="Mana"/>
+		<Section collapsed="false" id="EnergyShield"/>
+		<Section collapsed="false" id="Ward"/>
+		<Section collapsed="false" id="Armour"/>
+		<Section collapsed="false" id="Evasion"/>
+		<Section collapsed="false" id="Resist"/>
+		<Section collapsed="false" id="Block"/>
+		<Section collapsed="false" id="MiscDefences"/>
+		<Section collapsed="false" id="DamageTaken"/>
 	</Calcs>
-	<Skills sortGemsByDPSField="CombinedDPS" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="nil" showSupportGemTypes="NORMAL" showAltQualityGems="false"/>
+	<Skills sortGemsByDPSField="AverageDamage" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="20" showSupportGemTypes="NORMAL" showAltQualityGems="false"/>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="1" masteryEffects="" nodes="22266,32117,5237,40743,25067,33558,52213,36221,61306,43413,58271,36287,63251,94,27788,31315,53114,8938,45593,41866,12801,3309,1461,49900,6363,15837,65210,63139,15437,56509,54142,2715,19858,25260,1325,62744,15550,20807,7085,44207,58427,29933,9206,56807,50459,18770,48099,10661,59606,2094,9786,40362,59866,12720,26528,903,55307,4656,4573,39821,45491,60803,29454,32555,64241,16544,59151,3319,55509,24083,49343,6542,26471,34678,29937,37504,24432,12412,46277,54354,30679,33645,3187,8544,15021,19069,31471" treeVersion="3_16" classId="2">
+		<Spec ascendClassId="1" masteryEffects="{20730,7677},{62588,47642},{44316,64381},{65528,61741},{21324,41322}" nodes="22266,32117,5237,20730,25067,52213,36221,54354,43413,58271,49343,63251,94,62588,45593,41866,65528,3309,15837,65210,63139,15437,56509,2715,19858,15550,20807,7085,44207,58427,29933,9206,50459,12412,18770,48099,10661,26528,59606,2094,29937,56807,4656,9786,59866,44316,1461,21324,55307,62744,4573,39821,45491,60803,30679,3187,29454,26471,39718,32555,64241,12720,903,16544,59151,3319,12801,55509,34678,33558,6542,54142,1325,53114,37504,24432,24083,61306,33645,6363,15021,8544,36287,31315,19069,31471" treeVersion="3_16" classId="2">
 			<EditedNodes/>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABAIBAFb6fXUUdZ8nYeuDFsv1jX3veqmV45-Nv_cTAF5sjHpTz3oi6rIZo4oyAQztBbXC7BjbPd3-uvajPE3cvdN-CptNkmKsBS31GDy-UUcbrayvdO0j9t3nSVK74yml6NYILiY6narp2jGwZ6ADh9gLEjAR3ZuNsbPtg3MOfyv68UCg5w8M99jVXhPAvxmOZ2eHdnTxkoBfcDB8tMXUUnfXg20McyFgOq1KfXrv
+				https://www.pathofexile.com/passive-skill-tree/AAAABAIBAFb6fXUUdVD6YevL9Y191FKpleOfwL_3EwBe9HyyGaOK__gM7T3d_rr2ozxN3L0Km02SPL5RRxutrK907SP2MHxJUrvjKaVnoOjWCC508d3nEjAmOunarRwFtVNM2Av1GBHdm42xs-2Dd9cMc3MOZ2ebJn8r-vExsAOHQKDnDwz3MgHY1Yd2gxYZjtN-BS3PepKAX3BeE-96g20Y2zqtIWCNv3pTSn167w==
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="0"/>
@@ -130,77 +130,60 @@
 				<Socket nodeId="36634" itemId="0"/>
 				<Socket nodeId="34483" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="33753" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
 				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="49080" itemId="0"/>
-				<Socket nodeId="13170" itemId="0"/>
-				<Socket nodeId="7960" itemId="0"/>
-				<Socket nodeId="46882" itemId="0"/>
-				<Socket nodeId="46519" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="40400" itemId="0"/>
-				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="12613" itemId="0"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
 				<Socket nodeId="46393" itemId="0"/>
 				<Socket nodeId="23756" itemId="0"/>
 				<Socket nodeId="59585" itemId="0"/>
 				<Socket nodeId="14993" itemId="0"/>
-				<Socket nodeId="9797" itemId="0"/>
+				<Socket nodeId="41876" itemId="0"/>
 				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="29712" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
-				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
 				<Socket nodeId="61288" itemId="0"/>
-				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
 				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="61419" itemId="0"/>
 				<Socket nodeId="17219" itemId="0"/>
 				<Socket nodeId="23984" itemId="0"/>
-				<Socket nodeId="24970" itemId="0"/>
-				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
 				<Socket nodeId="41263" itemId="0"/>
 				<Socket nodeId="51198" itemId="0"/>
-				<Socket nodeId="10532" itemId="0"/>
-				<Socket nodeId="18436" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
 				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="41876" itemId="0"/>
-				<Socket nodeId="44169" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="7960" itemId="0"/>
+				<Socket nodeId="9797" itemId="0"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
-				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="13170" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="-495.02520236625" showHeatMap="nil" zoomLevel="5" showStatDifferences="true" zoomX="-494.16453759031"/>
-	<Items activeItemSet="1" useSecondWeaponSet="nil">
-		<Item id="1">
-			Rarity: RARE
-New Item
-Midnight Blade
-Crafted: true
-Prefix: None
-Prefix: None
-Prefix: None
-Suffix: None
-Suffix: None
-Suffix: None
-Quality: 20
-Sockets: G-G-G
-LevelReq: 68
-Implicits: 1
-{tags:attack}40% increased Global Accuracy Rating
-		</Item>
+	<TreeView searchStr="frenzy charge" zoomY="-361.04011056336" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="-564.04932184502"/>
+	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="2">
 			Rarity: RARE
 New Item
@@ -282,16 +265,33 @@ Sockets: G-G-G-G-G-G
 LevelReq: 65
 Implicits: 0
 		</Item>
-		<Slot name="Weapon 1" itemId="1"/>
+		<Item id="7">
+			Rarity: RARE
+New Item
+Eternal Sword
+Crafted: true
+Prefix: None
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: None
+Suffix: None
+Quality: 20
+Sockets: G-G-G
+LevelReq: 66
+Implicits: 1
+{tags:attack}+475 to Accuracy Rating
+		</Item>
+		<Slot name="Weapon 1" itemId="7"/>
 		<Slot name="Gloves" itemId="3"/>
 		<Slot name="Helmet" itemId="4"/>
 		<Slot name="Weapon 2" itemId="2"/>
 		<Slot name="Body Armour" itemId="5"/>
 		<Slot name="Boots" itemId="6"/>
-		<ItemSet useSecondWeaponSet="nil" id="1">
+		<ItemSet useSecondWeaponSet="false" id="1">
 			<Slot name="Weapon 1Swap Abyssal Socket 5" itemId="0"/>
 			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
-			<Slot name="Weapon 1" itemId="1"/>
+			<Slot name="Weapon 1" itemId="7"/>
 			<Slot name="Boots Abyssal Socket 5" itemId="0"/>
 			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
 			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
@@ -364,5 +364,11 @@ Implicits: 0
 	</Items>
 	<Config>
 		<Input name="conditionLeeching" boolean="true"/>
+		<Input name="useFrenzyCharges" boolean="true"/>
+		<Input name="multiplierWarcryPower" number="20"/>
+		<Input name="enemyIsBoss" string="Sirus"/>
+		<Input name="multiplierWarcryUsedRecently" number="3"/>
+		<Input name="bloodSandStance" string="SAND"/>
+		<Input name="multiplierNearbyAlly" number="4"/>
 	</Config>
 </PathOfBuilding>
