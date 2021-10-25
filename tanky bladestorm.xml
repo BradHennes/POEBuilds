@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Ranger" ascendClassName="Raider" mainSocketGroup="1" viewMode="SKILLS" pantheonMinorGod="None">
-		<PlayerStat stat="AverageDamage" value="6826.5841209819"/>
-		<PlayerStat stat="Speed" value="1.7005"/>
-		<PlayerStat stat="Speed" value="1.7005"/>
-		<PlayerStat stat="Speed" value="1.7005"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="46.6856"/>
-		<PlayerStat stat="CritChance" value="44.818176"/>
-		<PlayerStat stat="CritMultiplier" value="4.25"/>
+	<Build level="90" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Ranger" ascendClassName="Raider" mainSocketGroup="1" viewMode="ITEMS" pantheonMinorGod="None">
+		<PlayerStat stat="AverageDamage" value="3472.6564128693"/>
+		<PlayerStat stat="Speed" value="1.539"/>
+		<PlayerStat stat="Speed" value="1.539"/>
+		<PlayerStat stat="Speed" value="1.539"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="33.46"/>
+		<PlayerStat stat="CritChance" value="32.1216"/>
+		<PlayerStat stat="CritMultiplier" value="3.73"/>
 		<PlayerStat stat="HitChance" value="96"/>
-		<PlayerStat stat="TotalDPS" value="11608.60629773"/>
-		<PlayerStat stat="TotalDPS" value="11608.60629773"/>
+		<PlayerStat stat="TotalDPS" value="5344.4182194059"/>
+		<PlayerStat stat="TotalDPS" value="5344.4182194059"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="BleedDPS" value="3066.2007634944"/>
-		<PlayerStat stat="BleedDamage" value="15331.003817472"/>
-		<PlayerStat stat="WithBleedDPS" value="14674.807061224"/>
-		<PlayerStat stat="WithIgniteDPS" value="11608.60629773"/>
-		<PlayerStat stat="WithPoisonDPS" value="11608.60629773"/>
-		<PlayerStat stat="TotalDotDPS" value="3066.2007634944"/>
-		<PlayerStat stat="ImpaleDPS" value="5931.9978181399"/>
-		<PlayerStat stat="WithImpaleDPS" value="17540.60411587"/>
-		<PlayerStat stat="ImpaleDPS" value="5931.9978181399"/>
-		<PlayerStat stat="WithImpaleDPS" value="17540.60411587"/>
-		<PlayerStat stat="CombinedDPS" value="20606.804879364"/>
-		<PlayerStat stat="CombinedAvg" value="11608.60629773"/>
+		<PlayerStat stat="BleedDPS" value="1739.4032096"/>
+		<PlayerStat stat="BleedDamage" value="8697.016048"/>
+		<PlayerStat stat="WithBleedDPS" value="7083.8214290059"/>
+		<PlayerStat stat="WithIgniteDPS" value="5344.4182194059"/>
+		<PlayerStat stat="WithPoisonDPS" value="5344.4182194059"/>
+		<PlayerStat stat="TotalDotDPS" value="1739.4032096"/>
+		<PlayerStat stat="ImpaleDPS" value="2906.5618486239"/>
+		<PlayerStat stat="WithImpaleDPS" value="8250.9800680298"/>
+		<PlayerStat stat="ImpaleDPS" value="2906.5618486239"/>
+		<PlayerStat stat="WithImpaleDPS" value="8250.9800680298"/>
+		<PlayerStat stat="CombinedDPS" value="9990.3832776298"/>
+		<PlayerStat stat="CombinedAvg" value="5344.4182194059"/>
 		<PlayerStat stat="AreaOfEffectRadius" value="26"/>
 		<PlayerStat stat="ManaCost" value="29"/>
 		<PlayerStat stat="LifeCost" value="0"/>
@@ -33,23 +33,23 @@
 		<PlayerStat stat="LifePercentCost" value="0"/>
 		<PlayerStat stat="Str" value="84"/>
 		<PlayerStat stat="ReqStr" value="155"/>
-		<PlayerStat stat="Dex" value="192"/>
-		<PlayerStat stat="ReqDex" value="212"/>
-		<PlayerStat stat="Int" value="14"/>
+		<PlayerStat stat="Dex" value="252"/>
+		<PlayerStat stat="ReqDex" value="197"/>
+		<PlayerStat stat="Int" value="24"/>
 		<PlayerStat stat="ReqInt" value="111"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="Life" value="2852"/>
-		<PlayerStat stat="Spec:LifeInc" value="133"/>
-		<PlayerStat stat="LifeUnreserved" value="2852"/>
+		<PlayerStat stat="Life" value="3121"/>
+		<PlayerStat stat="Spec:LifeInc" value="155"/>
+		<PlayerStat stat="LifeUnreserved" value="3121"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
-		<PlayerStat stat="LifeRegen" value="41.0688"/>
-		<PlayerStat stat="LifeLeechGainRate" value="0"/>
-		<PlayerStat stat="Mana" value="581"/>
+		<PlayerStat stat="LifeRegen" value="44.9424"/>
+		<PlayerStat stat="LifeLeechGainRate" value="54.009523974653"/>
+		<PlayerStat stat="Mana" value="586"/>
 		<PlayerStat stat="Spec:ManaInc" value="0"/>
-		<PlayerStat stat="ManaUnreserved" value="75"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="12.908777969019"/>
-		<PlayerStat stat="ManaRegen" value="10.2"/>
-		<PlayerStat stat="ManaLeechGainRate" value="0"/>
+		<PlayerStat stat="ManaUnreserved" value="117"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="19.965870307167"/>
+		<PlayerStat stat="ManaRegen" value="10.3"/>
+		<PlayerStat stat="ManaLeechGainRate" value="56.399062194059"/>
 		<PlayerStat stat="Ward" value="0"/>
 		<PlayerStat stat="EnergyShield" value="0"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="0"/>
@@ -60,10 +60,10 @@
 		<PlayerStat stat="MeleeEvadeChance" value="0"/>
 		<PlayerStat stat="MeleeEvadeChance" value="0"/>
 		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
-		<PlayerStat stat="Armour" value="9620"/>
+		<PlayerStat stat="Armour" value="33730"/>
 		<PlayerStat stat="Spec:ArmourInc" value="0"/>
-		<PlayerStat stat="PhysicalDamageReduction" value="61"/>
-		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.47"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="85"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="1.44"/>
 		<PlayerStat stat="BlockChance" value="66"/>
 		<PlayerStat stat="SpellBlockChance" value="0"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
@@ -78,7 +78,7 @@
 		<PlayerStat stat="ChaosResist" value="-60"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="FullDPS" value="0"/>
-		<PlayerStat stat="SkillDPS" value="table: 0x1da3dd28"/>
+		<PlayerStat stat="SkillDPS" value="table: 0x12302c00"/>
 		<PlayerStat stat="PowerCharges" value="0"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="6"/>
@@ -120,43 +120,45 @@
 	</Calcs>
 	<Skills sortGemsByDPSField="AverageDamage" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="20" showSupportGemTypes="NORMAL" showAltQualityGems="false">
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="Bladestorm" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemBladestorm" quality="0" enabled="true" skillPartCalcs="1" count="1" nameSpec="Bladestorm" skillMinion="SummonedPhantasm"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportBrutality" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemBrutality" quality="0" enabled="true" count="1" nameSpec="Brutality"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportMeleePhysicalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" quality="0" enabled="true" count="1" nameSpec="Melee Physical Damage"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="1" nameSpec="Pulverise"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportIncreasedCriticalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalDamage" quality="0" enabled="true" count="1" nameSpec="Increased Critical Damage"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportIncreasedCriticalStrikes" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalStrikes" quality="0" enabled="true" count="1" nameSpec="Increased Critical Strikes"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Bladestorm" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemBladestorm" quality="0" enabled="true" skillPartCalcs="1" count="1" nameSpec="Bladestorm" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportBrutality" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemBrutality" quality="0" enabled="true" count="1" nameSpec="Brutality"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportMeleePhysicalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" quality="0" enabled="true" count="1" nameSpec="Melee Physical Damage"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="1" nameSpec="Pulverise"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportIncreasedCriticalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalDamage" quality="0" enabled="true" count="1" nameSpec="Increased Critical Damage"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportIncreasedCriticalStrikes" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalStrikes" quality="0" enabled="true" count="1" nameSpec="Increased Critical Strikes"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="7" enableGlobal1="true" skillId="BloodSandStance" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemBloodAndSand" quality="0" enabled="true" count="1" nameSpec="Blood and Sand"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="BloodSandArmour" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemFleshAndStone" quality="0" enabled="true" count="1" nameSpec="Flesh and Stone"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="AccuracyAndCritsAura" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPrecision" quality="0" enabled="true" count="1" nameSpec="Precision"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="PuresteelBanner" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemDreadBanner" quality="0" enabled="true" count="1" nameSpec="Dread Banner"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="PuresteelBanner" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemDreadBanner" quality="0" enabled="true" count="1" nameSpec="Dread Banner"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="Riposte" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemRiposte" quality="0" enabled="true" count="1" nameSpec="Riposte" skillMinion="SummonedPhantasm"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportMaim" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMaim" quality="0" enabled="true" count="1" nameSpec="Maim"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportMeleePhysicalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" quality="0" enabled="true" count="1" nameSpec="Melee Physical Damage"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportSlashingWeapon" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemCloseCombat" quality="0" enabled="true" count="1" nameSpec="Close Combat"/>
+		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Riposte" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemRiposte" quality="0" enabled="true" count="1" nameSpec="Riposte" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportMaim" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMaim" quality="0" enabled="true" count="1" nameSpec="Maim"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportMeleePhysicalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" quality="0" enabled="true" count="1" nameSpec="Melee Physical Damage"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportSlashingWeapon" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemCloseCombat" quality="0" enabled="true" count="1" nameSpec="Close Combat"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="Vengeance" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemVengeance" quality="0" enabled="true" count="1" nameSpec="Vengeance" skillMinion="SummonedPhantasm"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportBrutality" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemBrutality" quality="0" enabled="true" count="1" nameSpec="Brutality"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="1" nameSpec="Pulverise"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportMeleePhysicalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" quality="0" enabled="true" count="1" nameSpec="Melee Physical Damage"/>
+		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Vengeance" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemVengeance" quality="0" enabled="true" count="1" nameSpec="Vengeance" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportBrutality" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemBrutality" quality="0" enabled="true" count="1" nameSpec="Brutality"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="1" nameSpec="Pulverise"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportMeleePhysicalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" quality="0" enabled="true" count="1" nameSpec="Melee Physical Damage"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="Reckoning" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemReckoning" quality="0" enabled="true" count="1" nameSpec="Reckoning" skillMinion="SummonedPhantasm"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportBrutality" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemBrutality" quality="0" enabled="true" count="1" nameSpec="Brutality"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportMeleePhysicalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" quality="0" enabled="true" count="1" nameSpec="Melee Physical Damage"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="1" nameSpec="Pulverise"/>
+		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Reckoning" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemReckoning" quality="0" enabled="true" count="1" nameSpec="Reckoning" skillMinion="SummonedPhantasm"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportBrutality" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemBrutality" quality="0" enabled="true" count="1" nameSpec="Brutality"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportMeleePhysicalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemMeleePhysicalDamage" quality="0" enabled="true" count="1" nameSpec="Melee Physical Damage"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="1" nameSpec="Pulverise"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" groupCount="nil" enabled="true" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" skillMinionSkillCalcs="1" level="20" enableGlobal1="true" skillId="Grace" skillMinionSkill="1" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemGrace" quality="0" enabled="true" count="1" nameSpec="Grace" skillMinion="SkitterbotCold"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="Determination" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemDetermination" quality="0" enabled="true" count="1" nameSpec="Determination" skillMinion="SkitterbotCold"/>
 		</Skill>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="1" masteryEffects="{20730,7677},{44316,64381},{49820,42014},{62588,47642},{48982,56133},{47059,20273}" nodes="22266,32117,5237,36281,487,20730,48614,5926,52213,64587,61306,43413,6289,58271,49343,63251,64878,1568,49820,1325,12412,15021,49621,36287,33582,62588,30969,34031,29856,24083,57257,41866,5197,94,3309,6741,33558,18103,16848,15837,65210,6363,63139,15437,59220,50515,54354,2715,19858,56509,48287,30679,15550,20807,7085,44207,58427,29933,9206,14056,34191,50459,32477,26471,16079,18770,48099,34678,53292,40841,31364,1340,2094,29937,3187,39821,56370,59866,44316,26528,12720,903,55307,62744,4573,27605,45491,60803,6139,24865,29454,48982,9194,32555,64241,10661,9786,16544,59151,3319,13498,55509,6108,57080,4656,6542,54142,9469,60529,37504,24432,56807,1698,23066,65502,33645,53421,47059,8544,36221,42104,19069,31471" treeVersion="3_16" classId="2">
+		<Spec ascendClassId="1" masteryEffects="{20730,7677},{62588,47642},{44316,64381},{49820,42014},{53615,34383},{48982,56133},{47059,20273}" nodes="5237,487,48614,5926,52213,64587,54354,6289,49343,64265,1325,27788,62588,41866,6741,15837,65210,23066,2715,8001,15550,14056,44207,29933,9206,34191,34513,53292,33718,2094,9786,40362,59866,26528,3187,4573,45491,60803,63194,12720,32555,59151,6108,54142,9469,37504,24432,1698,65502,33645,8544,42104,31471,22266,32117,24083,5197,20730,29856,53421,36221,61306,43413,47059,58271,36287,63251,94,49900,18103,6363,6538,63139,15437,59220,56509,16079,19858,60529,7085,58427,49621,50459,18770,48099,40841,6799,9995,34678,44316,903,55307,53615,50338,39821,38662,13498,1568,24865,9194,25260,57257,33582,64241,16848,4656,16544,33558,3319,48982,55509,12412,57080,38995,6542,26471,29454,62744,30679,1461,31364,46277,29937,10661,20807,48287,49820,3309,56807,15021,19069,34031" treeVersion="3_16" classId="2">
 			<EditedNodes/>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABAIBAFb6fXUUdY25AedQ-r3mFybL9fxL73qplRiR45_Av_cT_W4GIMKcBS0wfDqtwdWNv4Mu9Hx4-YTvdKBeE9-po4oUTQBeDO0aVYMWRrdB0D3d_roY2_ajPE3nVMVT1FIKm02S3L28n3fXPL5RRxutrK907SP2NuiFj37dZ2c-z0lSu-OHdtAsn4l6hAU8CC508Qxzm43cMunarRxnoDGwA4fYC_UYEd1r1bGz7YMX-2Ehcw6_ViPqfyv68SmlJjpAoOcPDPc0utjVF9ze-BIwGY7TfiT97HGSgF9w3ecGoloa_96DbdCtt9MhYI19pHhKfXrv
+				https://www.pathofexile.com/passive-skill-tree/AAAABAIBABR1Aee95hcmy_X8S9RSGJHAv_sJBS1sjPR8o4oaVT3d_rpaGgqbH0E8vjborK907SP2hY-G0dAsg7YILiY6narp2megDHMR3bGz7YP22jGwfyvnDxfc034k_ZKAX3AGov_eg20hYKR4eu9W-n11XhMUTVD6dKDQrY1973qplbfT45-Nv_cTAF7C7Ea3GNsZivajPE3nVNy9Ps9NkuxxG63B1UlSu-OfiRqPJwuHdq0cA4fYC9FvxKKbjZcGNLoGIGEhI-pirN-pgy768UHQEjBAoIMWDPe_VtjVMHze-JhTGY5nZ3MO9Rh31wW1eoS0xXTxKaVRR7yfwpwM7d3nOq1KfYTv
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="0"/>
@@ -170,59 +172,59 @@
 				<Socket nodeId="36634" itemId="0"/>
 				<Socket nodeId="29712" itemId="0"/>
 				<Socket nodeId="21984" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="18436" itemId="0"/>
-				<Socket nodeId="61305" itemId="0"/>
-				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="60735" itemId="0"/>
-				<Socket nodeId="14993" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="12613" itemId="0"/>
-				<Socket nodeId="46519" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
 				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="12613" itemId="0"/>
 				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
 				<Socket nodeId="46393" itemId="0"/>
 				<Socket nodeId="23756" itemId="0"/>
 				<Socket nodeId="59585" itemId="0"/>
 				<Socket nodeId="32763" itemId="0"/>
 				<Socket nodeId="41876" itemId="0"/>
-				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="13170" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
 				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="49080" itemId="0"/>
 				<Socket nodeId="61288" itemId="0"/>
 				<Socket nodeId="10532" itemId="0"/>
 				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="44169" itemId="0"/>
-				<Socket nodeId="17219" itemId="0"/>
-				<Socket nodeId="46882" itemId="0"/>
-				<Socket nodeId="41263" itemId="0"/>
 				<Socket nodeId="61419" itemId="0"/>
-				<Socket nodeId="61666" itemId="0"/>
-				<Socket nodeId="51198" itemId="0"/>
-				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
 				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="41263" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="24970" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
 				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="33753" itemId="0"/>
-				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
 				<Socket nodeId="7960" itemId="0"/>
 				<Socket nodeId="9797" itemId="0"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="impale" zoomY="-879.13284562139" showHeatMap="false" zoomLevel="7" showStatDifferences="true" zoomX="-96.660570181119"/>
+	<TreeView searchStr="impale" zoomY="-274.12762116659" showHeatMap="false" zoomLevel="3" showStatDifferences="true" zoomX="-383.67455480699"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="2">
 			Rarity: RARE
@@ -328,7 +330,28 @@ Adds 15 to 28 Physical Damage
 +27% to Global Critical Strike Multiplier
 +111 to Accuracy Rating
 		</Item>
-		<Slot name="Weapon 1" itemId="1"/>
+		<Item id="7">
+			Rarity: UNIQUE
+Replica Dreamfeather
+Eternal Sword
+League: Heist
+Quality: 20
+Sockets: G-G-G
+LevelReq: 66
+Implicits: 1
++475 to Accuracy Rating
+{range:0.5}Adds (40-65) to (70-100) Physical Damage
+{range:0.5}(5-10)% increased Attack Speed
+{range:0.5}+(180-200) to Armour
+3% reduced Movement Speed
+{range:0.5}+(280-300) to Accuracy Rating
+1% increased Attack Damage per 450 Armour
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Slot name="Weapon 1" itemId="7"/>
 		<Slot name="Gloves" itemId="3"/>
 		<Slot name="Helmet" itemId="4"/>
 		<Slot name="Weapon 2" itemId="2"/>
@@ -337,7 +360,7 @@ Adds 15 to 28 Physical Damage
 		<ItemSet useSecondWeaponSet="false" id="1">
 			<Slot name="Weapon 1Swap Abyssal Socket 5" itemId="0"/>
 			<Slot name="Weapon 1 Abyssal Socket 2" itemId="0"/>
-			<Slot name="Weapon 1" itemId="1"/>
+			<Slot name="Weapon 1" itemId="7"/>
 			<Slot name="Boots Abyssal Socket 5" itemId="0"/>
 			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
 			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
@@ -413,8 +436,8 @@ Adds 15 to 28 Physical Damage
 		<Input name="useFrenzyCharges" boolean="true"/>
 		<Input name="multiplierWarcryPower" number="0"/>
 		<Input name="enemyIsBoss" string="Sirus"/>
-		<Input name="bloodSandStance" string="BLOOD"/>
 		<Input name="multiplierWarcryUsedRecently" number="3"/>
+		<Input name="bloodSandStance" string="BLOOD"/>
 		<Input name="warcryMode" string="AVERAGE"/>
 		<Input name="multiplierNearbyAlly" number="4"/>
 	</Config>
