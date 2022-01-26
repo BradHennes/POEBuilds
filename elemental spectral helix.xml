@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="90" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Ranger" ascendClassName="Raider" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="None">
-		<PlayerStat stat="AverageDamage" value="57441.999186704"/>
+		<PlayerStat stat="AverageDamage" value="52322.331217168"/>
 		<PlayerStat stat="Speed" value="3.165"/>
 		<PlayerStat stat="Speed" value="3.165"/>
 		<PlayerStat stat="Speed" value="3.165"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="26.8"/>
-		<PlayerStat stat="CritChance" value="26.8"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="20.8"/>
+		<PlayerStat stat="CritChance" value="20.8"/>
 		<PlayerStat stat="CritMultiplier" value="2.55"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="181803.92742592"/>
-		<PlayerStat stat="TotalDPS" value="181803.92742592"/>
+		<PlayerStat stat="TotalDPS" value="165600.17830234"/>
+		<PlayerStat stat="TotalDPS" value="165600.17830234"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="181803.92742592"/>
-		<PlayerStat stat="IgniteDPS" value="4870.03125"/>
-		<PlayerStat stat="IgniteDamage" value="19480.125"/>
-		<PlayerStat stat="WithIgniteDPS" value="186673.95867592"/>
-		<PlayerStat stat="WithPoisonDPS" value="181803.92742592"/>
-		<PlayerStat stat="TotalDotDPS" value="4870.03125"/>
-		<PlayerStat stat="CombinedDPS" value="186673.95867592"/>
-		<PlayerStat stat="CombinedAvg" value="181803.92742592"/>
+		<PlayerStat stat="WithBleedDPS" value="165600.17830234"/>
+		<PlayerStat stat="IgniteDPS" value="4728.28125"/>
+		<PlayerStat stat="IgniteDamage" value="18913.125"/>
+		<PlayerStat stat="WithIgniteDPS" value="170328.45955234"/>
+		<PlayerStat stat="WithPoisonDPS" value="165600.17830234"/>
+		<PlayerStat stat="TotalDotDPS" value="4728.28125"/>
+		<PlayerStat stat="CombinedDPS" value="170328.45955234"/>
+		<PlayerStat stat="CombinedAvg" value="165600.17830234"/>
 		<PlayerStat stat="ManaCost" value="28"/>
 		<PlayerStat stat="LifeCost" value="0"/>
 		<PlayerStat stat="ESCost" value="0"/>
@@ -73,8 +73,8 @@
 		<PlayerStat stat="ChaosResist" value="-49"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="FullDPS" value="0"/>
-		<PlayerStat stat="SkillDPS" value="table: 0x1e74a108"/>
-		<PlayerStat stat="PowerCharges" value="3"/>
+		<PlayerStat stat="SkillDPS" value="table: 0x21898e90"/>
+		<PlayerStat stat="PowerCharges" value="0"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="7"/>
 		<PlayerStat stat="FrenzyChargesMax" value="7"/>
@@ -116,16 +116,15 @@
 	<Skills sortGemsByDPSField="AverageDamage" sortGemsByDPS="true" defaultGemQuality="0" defaultGemLevel="20" showSupportGemTypes="NORMAL" showAltQualityGems="false">
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" groupCount="nil" enabled="true" slot="Body Armour" mainActiveSkill="1">
 			<Gem enableGlobal2="true" level="19" enableGlobal1="true" skillId="SupportTrinity" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemTrinity" quality="0" enabled="true" count="1" nameSpec="Trinity"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportFrenzyChargeOnSlayingFrozenEnemy" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy" quality="0" enabled="true" count="1" nameSpec="Ice Bite"/>
 			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" skillMinionCalcs="AbsolutionTemplarJudge" level="20" enableGlobal1="true" skillId="SpectralHelix" skillMinionSkill="1" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemSpectralHelix" quality="0" enabled="true" count="1" nameSpec="Spectral Helix" skillMinion="SummonedPhantasm"/>
-			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" level="20" enableGlobal1="true" skillId="SupportAddedColdDamage" skillMinionSkill="1" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedColdDamage" quality="0" enabled="true" count="1" nameSpec="Added Cold Damage" skillMinion="AbsolutionTemplarJudge"/>
-			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" level="20" enableGlobal1="true" skillId="SupportAddedLightningDamage" skillMinionSkill="1" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedLightningDamage" quality="0" enabled="true" count="1" nameSpec="Added Lightning Damage" skillMinion="AbsolutionTemplarJudge"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportWeaponElementalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" quality="0" enabled="true" count="1" nameSpec="Elemental Damage with Attacks"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportFrenzyChargeOnSlayingFrozenEnemy" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy" quality="0" enabled="true" count="1" nameSpec="Ice Bite"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportWeaponElementalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" quality="0" enabled="true" count="1" nameSpec="Elemental Damage with Attacks"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportAddedLightningDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedLightningDamage" quality="0" enabled="true" count="1" nameSpec="Added Lightning Damage"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportAddedColdDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedColdDamage" quality="0" enabled="true" count="1" nameSpec="Added Cold Damage"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" groupCount="nil" enabled="true" slot="Weapon 1" mainActiveSkill="1">
 			<Gem enableGlobal2="true" level="19" enableGlobal1="true" skillId="Grace" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemGrace" quality="0" enabled="true" count="1" nameSpec="Grace"/>
 			<Gem enableGlobal2="false" skillMinionSkillCalcs="1" level="20" enableGlobal1="true" skillId="SummonIceGolem" skillMinionSkill="1" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemSummonIceGolem" quality="0" enabled="true" count="1" nameSpec="Summon Ice Golem" skillMinion="SummonedIceGolem"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Anger" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemAnger" quality="0" enabled="true" count="1" nameSpec="Anger"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Weapon 2" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SnipersMark" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemProjectileWeakness" quality="0" enabled="true" count="1" nameSpec="Sniper&apos;s Mark"/>
@@ -135,37 +134,40 @@
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Helmet" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Vengeance" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemVengeance" quality="0" enabled="true" count="1" nameSpec="Vengeance" skillMinion="SummonedPhantasm"/>
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportFrenzyChargeOnSlayingFrozenEnemy" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy" quality="0" enabled="true" count="1" nameSpec="Ice Bite"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportPowerChargeOnCrit" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" quality="0" enabled="true" count="1" nameSpec="Power Charge On Critical"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportIncreasedCriticalStrikes" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalStrikes" quality="0" enabled="true" count="1" nameSpec="Increased Critical Strikes"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="1" nameSpec="Pulverise"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportAddedColdDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemAddedColdDamage" quality="0" enabled="true" count="1" nameSpec="Added Cold Damage"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Boots" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Riposte" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemRiposte" quality="0" enabled="true" count="1" nameSpec="Riposte" skillMinion="SummonedPhantasm"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportPowerChargeOnCrit" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" quality="0" enabled="true" count="1" nameSpec="Power Charge On Critical"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportIncreasedCriticalStrikes" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalStrikes" quality="0" enabled="true" count="1" nameSpec="Increased Critical Strikes"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportFrenzyChargeOnSlayingFrozenEnemy" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy" quality="0" enabled="true" count="1" nameSpec="Ice Bite"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportRuthless" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemRuthless" quality="0" enabled="true" count="1" nameSpec="Ruthless"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportFrenzyChargeOnSlayingFrozenEnemy" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy" quality="0" enabled="true" count="1" nameSpec="Ice Bite"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportWeaponElementalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" quality="0" enabled="true" count="1" nameSpec="Elemental Damage with Attacks"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Gloves" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Reckoning" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemReckoning" quality="0" enabled="true" count="1" nameSpec="Reckoning" skillMinion="SummonedPhantasm"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportPowerChargeOnCrit" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPowerChargeOnCrit" quality="0" enabled="true" count="1" nameSpec="Power Charge On Critical"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportIncreasedCriticalStrikes" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedCriticalStrikes" quality="0" enabled="true" count="1" nameSpec="Increased Critical Strikes"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportFrenzyChargeOnSlayingFrozenEnemy" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy" quality="0" enabled="true" count="1" nameSpec="Ice Bite"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportPulverise" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemPulverise" quality="0" enabled="true" count="1" nameSpec="Pulverise"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportFrenzyChargeOnSlayingFrozenEnemy" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy" quality="0" enabled="true" count="1" nameSpec="Ice Bite"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportWeaponElementalDamage" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamage" quality="0" enabled="true" count="1" nameSpec="Elemental Damage with Attacks"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="AccuracyAndCritsAura" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPrecision" quality="0" enabled="true" count="1" nameSpec="Precision"/>
 		</Skill>
+		<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" groupCount="nil" enabled="true" mainActiveSkill="nil">
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="Anger" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemAnger" quality="0" enabled="true" count="1" nameSpec="Anger"/>
+		</Skill>
 	</Skills>
 	<Tree activeSpec="2">
-		<Spec title="early" ascendClassId="1" masteryEffects="{3042,64381},{44316,47642},{53615,34383},{4707,40307},{20730,42014}" nodes="22266,32117,24083,4707,20730,48614,53421,52213,36221,27656,50338,58271,36287,63251,41119,1568,94,58921,57449,41866,49900,18103,16848,65210,6538,23066,12794,56509,2715,19858,8001,20807,58427,28658,9206,14804,50459,18770,48099,3314,10661,12412,29937,59866,44316,31364,5237,903,5926,16213,42178,39821,12720,60803,63194,64265,29454,32555,6363,42443,54354,6799,46277,16544,59151,3042,38662,23951,6108,53615,38995,30455,54142,62744,37504,30679,1461,6542,1698,2094,34678,16079,26528,29856,8544,4656,3187,19069,56295" treeVersion="3_16" classId="2">
+		<Spec title="early" ascendClassId="1" masteryEffects="{3042,64381},{44316,47642},{53615,34383},{4707,40307},{20730,42014}" nodes="22266,32117,24083,4707,20730,48614,53421,52213,36221,27656,50338,58271,36287,42178,41119,1568,94,58921,57449,41866,49900,18103,6363,65210,6538,23066,12794,56509,16079,19858,8001,20807,58427,28658,9206,14804,50459,18770,48099,3314,10661,2094,29937,34678,44316,26528,63251,903,64265,3187,32555,39821,29454,60803,63194,54354,12720,5926,16848,42443,5237,12412,38662,16544,59151,3042,46277,23951,6108,53615,38995,6542,54142,62744,37504,30679,1461,30455,1698,6799,59866,2715,31364,56295,8544,16213,4656,19069,29856" treeVersion="3_16" classId="2">
 			<EditedNodes/>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABAIBAFb6fXVeExJjUPq95tCty_WNfWwIxKLjn42_9xOgnwYgAF7mKeBpo4rC7Ea3QdD-uhmKWhox-ty9CptNkh9BUUdv8iP2OdRJUrvjDPIppTB8dPHp2q0ceoQUdQOHFyY_VaTCm40xsO2D9tr7CXMOfysY26XL1FIaj7TFQKDnDwvilwZdjxfc0W-YU3b30371GJKAd9cFtRmOBqIILod2Ps9noHSgIWASMAxzSn3b5w==
+				https://www.pathofexile.com/passive-skill-tree/AAAABAIBAFb6fXVeExJjUPq95tCty_WNfWwIxKLjn42_pMKgnwYgAF7mKeBpo4rC7Ea3GNv-uhmKWhox-ty9Ps9Nkh9BUUdv8iP2OdRJUrvjDPIppQgudPGHdq0cZ6D3EwOH-wkMc38rm41zDu2D9trUUjGwFyZB0KXLFHUwfJcGQKDnDwvitMVdjxfc0W-YUxmO0371GJKAd9cFtXb3BqIaj-naCpt6hNvnIWA_VRIwSn10oA==
 			</URL>
 			<Sockets/>
 		</Spec>
-		<Spec title="final" ascendClassId="1" masteryEffects="{58302,51147},{4707,40307},{53615,34383},{37795,30612},{292,64381}" nodes="25511,32117,56646,5237,4707,48614,5926,52213,36221,53615,43413,50338,56295,49343,42178,41119,4481,1568,94,1325,29856,24083,27788,50679,58921,63251,25067,54354,16848,57449,53421,41866,46277,58271,49900,1461,30679,18103,6363,15837,65210,6538,63139,23066,12794,56509,15437,2715,19858,8001,16079,26471,15550,20807,6542,44207,58427,28658,9206,292,14804,50459,31315,12412,55509,18770,48099,3314,39718,10661,2094,53114,6799,29937,38662,59866,25260,34678,31364,26528,64265,903,55307,16213,32555,39821,4656,60803,63194,61306,12720,29454,62744,42443,64241,3187,56807,16544,59151,3319,5616,23951,6108,57080,38995,30455,54142,49621,29933,37504,24432,27656,1698,37795,15021,33645,58302,36287,8544,22266,42104,19069,31471" treeVersion="3_16" classId="2">
+		<Spec title="final" ascendClassId="1" masteryEffects="{58302,51147},{4707,40307},{53615,34383},{37795,30612},{292,64381}" nodes="25511,32117,56646,5237,4707,48614,53421,52213,36221,31315,43413,50338,56295,49343,42178,41119,63251,1568,58302,94,36287,25067,27788,50679,58921,29856,24083,58271,16848,57449,53615,41866,46277,2715,49900,1461,30679,18103,6363,15837,65210,6538,63139,15437,12794,56509,4481,16079,19858,8001,1325,26471,15550,20807,6542,44207,58427,28658,9206,49621,14804,50459,292,6799,55509,18770,48099,3314,2094,10661,12412,5616,39718,29937,38662,25260,34678,59866,26528,31364,16213,903,55307,3187,32555,39821,4656,60803,63194,61306,29454,12720,62744,42443,64241,64265,56807,16544,59151,3319,53114,23951,6108,57080,38995,30455,54142,29933,22266,37504,24432,5926,1698,37795,23066,33645,27656,15021,8544,54354,42104,19069,31471" treeVersion="3_16" classId="2">
 			<EditedNodes/>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABAIBAGOnfXXdRhR1EmO95hcmy_WNfdFvqZXEotvnwL-kwqCfEYEGIABeBS10oF4TbIzF9-Yp9xNh69RSQdDgadCto4q0xeOfwuwFtXfXRrcY2z3d_roZivajWhox-ty9PE0Km02SH0E-z2dnPL5RRxmOrK9v8iP2ASQ51HpTMHzY1UlSu-MM8psmKaUILs96Go908ZcG6dpirId2eoRnoPsJA4fYCz9VfyubjRIw7YP22u96MbBzDvUYpcv68Qxz3edAoOcPDPcV8F2PF9ze-JhTdvfTfsHVdO2SgF9wbAgGopOjOq2DbeO-jb8hYFb6pHhKfXrv
+				https://www.pathofexile.com/passive-skill-tree/AAAABAIBAGOnfXXdRhR1EmO95tCty_WNfXpTqZXEotvnwL-kwqCf9xMGIOO-AF6Nv2HrbIzF9-YpdKBeE-OfQdDgadFvo4q0xQqbwuwFtXfXRrcY2z3d_roZivajPE0x-ty9EYE-z02SH0EFLWdnPL5RRxmOrK9v8iP2wdU51AEkGo_Y1UlSu-MM8gguKaUwfBXwmyZ08ZcGYqyHdunaZ6B6hD9VA4fYCwxzfyubjRIw7YP22u96cw4xsPUYpcv68fsJ3edAoOcPDPfPel2PF9ze-JhTdvfTfnTtVvqSgF9wFyYGopOjWhqDbWwIOq0hYNRSpHhKfXrv
 			</URL>
 			<Sockets/>
 		</Spec>
@@ -173,7 +175,7 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="-1031.9687718206" showHeatMap="false" zoomLevel="7" showStatDifferences="true" zoomX="-610.0824762041"/>
+	<TreeView searchStr="stun" zoomY="-276.3287718206" showHeatMap="false" zoomLevel="7" showStatDifferences="true" zoomX="-767.1624762041"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="8">
 			Rarity: RARE
@@ -231,27 +233,6 @@ Implicits: 2
 			<ModRange range="0.5" id="11"/>
 			<ModRange range="0.5" id="12"/>
 			<ModRange range="0.5" id="13"/>
-		</Item>
-		<Item id="1">
-			Rarity: RARE
-Elemental 1H Sword
-Jewelled Foil
-Crafted: true
-Prefix: WeaponElementalDamageOnWeapons4
-Prefix: None
-Prefix: None
-Suffix: LocalIncreasedAttackSpeed3
-Suffix: LocalCriticalStrikeChance3
-Suffix: LocalCriticalMultiplier4
-Quality: 20
-Sockets: G-G-G
-LevelReq: 68
-Implicits: 1
-+25% to Global Critical Strike Multiplier
-12% increased Attack Speed
-22% increased Critical Strike Chance
-+27% to Global Critical Strike Multiplier
-40% increased Elemental Damage with Attack Skills
 		</Item>
 		<Slot name="Weapon 1" itemId="4"/>
 		<Slot name="Weapon 2" itemId="8"/>
@@ -335,7 +316,6 @@ Implicits: 1
 		<Input name="buffFortify" boolean="true"/>
 		<Input name="projectileDistance" number="10"/>
 		<Input name="brandAttachedToEnemy" boolean="true"/>
-		<Input name="usePowerCharges" boolean="true"/>
 		<Input name="configResonanceCount" number="30"/>
 		<Input name="useInspirationCharges" boolean="true"/>
 		<Input name="useFrenzyCharges" boolean="true"/>
