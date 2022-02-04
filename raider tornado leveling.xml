@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="73" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Ranger" ascendClassName="Raider" mainSocketGroup="1" viewMode="SKILLS" pantheonMinorGod="None">
-		<PlayerStat stat="AverageDamage" value="14183.916977299"/>
+	<Build level="74" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Ranger" ascendClassName="Raider" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="None">
+		<PlayerStat stat="AverageDamage" value="14570.792260938"/>
 		<PlayerStat stat="Speed" value="3.78"/>
 		<PlayerStat stat="Speed" value="3.78"/>
 		<PlayerStat stat="Speed" value="3.78"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="41.112"/>
-		<PlayerStat stat="CritChance" value="40.70088"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="42.912"/>
+		<PlayerStat stat="CritChance" value="42.48288"/>
 		<PlayerStat stat="CritMultiplier" value="5.82"/>
 		<PlayerStat stat="HitChance" value="99"/>
-		<PlayerStat stat="TotalDPS" value="53615.206174192"/>
-		<PlayerStat stat="TotalDPS" value="53615.206174192"/>
+		<PlayerStat stat="TotalDPS" value="55077.594746346"/>
+		<PlayerStat stat="TotalDPS" value="55077.594746346"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="53615.206174192"/>
-		<PlayerStat stat="WithIgniteDPS" value="53615.206174192"/>
-		<PlayerStat stat="WithPoisonDPS" value="53615.206174192"/>
+		<PlayerStat stat="WithBleedDPS" value="55077.594746346"/>
+		<PlayerStat stat="WithIgniteDPS" value="55077.594746346"/>
+		<PlayerStat stat="WithPoisonDPS" value="55077.594746346"/>
 		<PlayerStat stat="TotalDotDPS" value="0"/>
-		<PlayerStat stat="CullingDPS" value="5957.2451304657"/>
-		<PlayerStat stat="CombinedDPS" value="59572.451304657"/>
-		<PlayerStat stat="CombinedAvg" value="53615.206174192"/>
+		<PlayerStat stat="CullingDPS" value="6119.732749594"/>
+		<PlayerStat stat="CombinedDPS" value="61197.32749594"/>
+		<PlayerStat stat="CombinedAvg" value="55077.594746346"/>
 		<PlayerStat stat="ManaCost" value="18"/>
 		<PlayerStat stat="LifeCost" value="0"/>
 		<PlayerStat stat="ESCost" value="0"/>
@@ -32,22 +32,22 @@
 		<PlayerStat stat="Int" value="44"/>
 		<PlayerStat stat="ReqInt" value="113"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="Life" value="1942"/>
+		<PlayerStat stat="Life" value="1966"/>
 		<PlayerStat stat="Spec:LifeInc" value="100"/>
-		<PlayerStat stat="LifeUnreserved" value="1942"/>
+		<PlayerStat stat="LifeUnreserved" value="1966"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
 		<PlayerStat stat="LifeRegen" value="0"/>
-		<PlayerStat stat="LifeLeechGainRate" value="551.6388"/>
-		<PlayerStat stat="Mana" value="494"/>
+		<PlayerStat stat="LifeLeechGainRate" value="555.9588"/>
+		<PlayerStat stat="Mana" value="500"/>
 		<PlayerStat stat="Spec:ManaInc" value="0"/>
-		<PlayerStat stat="ManaUnreserved" value="64.62"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="13.080971659919"/>
-		<PlayerStat stat="ManaRegen" value="8.6"/>
-		<PlayerStat stat="ManaLeechGainRate" value="106.2844"/>
-		<PlayerStat stat="TotalDegen" value="77.68"/>
-		<PlayerStat stat="TotalNetRegen" value="-69.08"/>
-		<PlayerStat stat="NetLifeRegen" value="-77.68"/>
-		<PlayerStat stat="NetManaRegen" value="8.6"/>
+		<PlayerStat stat="ManaUnreserved" value="66.62"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="13.324"/>
+		<PlayerStat stat="ManaRegen" value="8.8"/>
+		<PlayerStat stat="ManaLeechGainRate" value="107.4844"/>
+		<PlayerStat stat="TotalDegen" value="78.64"/>
+		<PlayerStat stat="TotalNetRegen" value="-69.84"/>
+		<PlayerStat stat="NetLifeRegen" value="-78.64"/>
+		<PlayerStat stat="NetManaRegen" value="8.8"/>
 		<PlayerStat stat="NetEnergyShieldRegen" value="0"/>
 		<PlayerStat stat="Ward" value="0"/>
 		<PlayerStat stat="EnergyShield" value="0"/>
@@ -56,9 +56,9 @@
 		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
 		<PlayerStat stat="Evasion" value="5771"/>
 		<PlayerStat stat="Spec:EvasionInc" value="129"/>
-		<PlayerStat stat="MeleeEvadeChance" value="52"/>
-		<PlayerStat stat="MeleeEvadeChance" value="52"/>
-		<PlayerStat stat="ProjectileEvadeChance" value="52"/>
+		<PlayerStat stat="MeleeEvadeChance" value="51"/>
+		<PlayerStat stat="MeleeEvadeChance" value="51"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="51"/>
 		<PlayerStat stat="Armour" value="0"/>
 		<PlayerStat stat="Spec:ArmourInc" value="0"/>
 		<PlayerStat stat="PhysicalDamageReduction" value="0"/>
@@ -77,7 +77,7 @@
 		<PlayerStat stat="ChaosResist" value="-60"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="FullDPS" value="0"/>
-		<PlayerStat stat="SkillDPS" value="table: 0x221380f8"/>
+		<PlayerStat stat="SkillDPS" value="table: 0x16a16308"/>
 		<PlayerStat stat="PowerCharges" value="0"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="6"/>
@@ -127,7 +127,7 @@
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="auras" groupCount="nil" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="15" enableGlobal1="true" skillId="Grace" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemGrace" quality="0" enabled="true" count="1" nameSpec="Grace" skillMinion="SummonedReaper"/>
 			<Gem enableGlobal2="false" level="15" enableGlobal1="true" skillId="Hatred" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemHatred" quality="0" enabled="true" count="1" nameSpec="Hatred"/>
-			<Gem enableGlobal2="nil" level="10" enableGlobal1="true" skillId="AccuracyAndCritsAura" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPrecision" quality="0" enabled="true" count="1" nameSpec="Precision"/>
+			<Gem enableGlobal2="false" level="10" enableGlobal1="true" skillId="AccuracyAndCritsAura" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPrecision" quality="0" enabled="true" count="1" nameSpec="Precision"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="15" enableGlobal1="true" skillId="SnipersMark" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemProjectileWeakness" quality="0" enabled="true" count="1" nameSpec="Sniper&apos;s Mark"/>
@@ -140,10 +140,10 @@
 		</Skill>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="1" masteryEffects="{3042,64381},{31039,61534},{19050,22056},{44316,47642},{47212,1167},{53615,34383},{58563,2800},{31197,44869}" nodes="22266,32117,5237,36281,48614,53421,36221,27656,50338,56295,36287,42178,14292,41119,49568,64265,25260,57199,27788,5629,30626,30745,30969,41866,49900,16848,5622,65210,6538,59220,19050,31197,16079,19858,8001,18670,20807,15614,35384,58427,9206,14804,50459,61834,15842,41595,3314,53615,48099,25209,8620,6799,58563,64878,40362,58271,34678,44316,31364,5926,31039,41250,27325,62712,38662,465,63194,3424,30679,54791,47212,54142,32555,17908,12794,49621,36225,45035,3042,5802,12412,42443,57080,38995,30455,6,9469,26528,37504,1461,30894,46277,25775,65502,61327,41536,60735,51404,32477,42104,19069,1405" treeVersion="3_16" classId="2">
+		<Spec ascendClassId="1" masteryEffects="{3042,64381},{19050,22056},{31039,61534},{44316,47642},{47212,1167},{53615,34383},{58563,2800},{31197,44869}" nodes="22266,32117,5237,36281,48614,53421,25775,27656,50338,56295,36287,42178,14292,41119,62712,64265,25260,57199,27788,5629,30626,30745,30969,41866,49900,16848,5622,65210,6538,59220,19050,31197,16079,19858,8001,18670,20807,15614,35384,58427,28658,9206,14804,50459,61834,49568,41595,3314,53615,41536,25209,58271,6799,58563,64878,40362,48099,34678,44316,31364,15842,1405,41250,27325,63194,38662,465,8620,3424,30679,54791,47212,54142,32555,17908,12794,49621,36225,45035,3042,5802,12412,42443,57080,38995,30455,6,9469,26528,37504,1461,30894,46277,31039,65502,61327,5926,32477,51404,60735,42104,19069,36221" treeVersion="3_16" classId="2">
 			<EditedNodes/>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIBZFb6fXUUdY25vebQrY19bAjEotvnjb-kwjfUoJ_BoPsJYqzfb2yMFf13ongZePmjisLsQdAV9v66GYrnVEpqed0-z02SH0FI7lFHPP6KOCP2OdTxij3ionsM8tFvu-NieSGsGo_kw_1unarjn4d2rRx6hBcmeT-hImq99PiXBgHR9toNYHfX1ge4bNN-fytF9DH6wdWNga_rC-IWqjB8pcve-JhTdvcABiT9Z6CSgAW1eK60xWSv_97vj6JA7T_IzH7dpHhKfQV9AAhWKEpqr0V53YZP0W8K8OTDuhqtHPBeeT8Ej7hs-30L4g==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIBZVb6fXUUdY25vebQrWSvbAjEotvnjb-kwjfUoJ_0-PsJYqzfb2yMFf13ongZePmjisLsQdAV9v66GYrnVEpqed0-z02SH0FI7lFHPP6KOG_yI_Y51PGKwaCiewzy0W-iQGJ5458aj-TD_W6dqrvjh3atHHqEPeIFfaEiar322pcGAdEhrA1gd9fWB7hs035_K0X0MfrB1Y2Br-sL4haqMHyly974mFN29wAGJP1noJKABbV4rrTFeT__3u-PFyZ-3cjM7T-keEp9jX0ACFYoSmqvRXndhk_Rbwrw5MO6Gq0cBI-4bPt9C-LwXnk_
 			</URL>
 			<Sockets/>
 		</Spec>
@@ -151,7 +151,7 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="elusive" zoomY="-225.32293867043" showHeatMap="false" zoomLevel="6" showStatDifferences="true" zoomX="-1058.9109971048"/>
+	<TreeView searchStr="elusive" zoomY="-494.32293867043" showHeatMap="false" zoomLevel="6" showStatDifferences="true" zoomX="-1133.9109971048"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			Rarity: RARE
