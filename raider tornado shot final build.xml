@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="90" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Ranger" ascendClassName="Raider" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="None">
-		<PlayerStat stat="AverageDamage" value="34581.887868393"/>
-		<PlayerStat stat="Speed" value="4.134"/>
-		<PlayerStat stat="Speed" value="4.134"/>
-		<PlayerStat stat="Speed" value="4.134"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="45.7776"/>
-		<PlayerStat stat="CritChance" value="45.7776"/>
-		<PlayerStat stat="CritMultiplier" value="3.1"/>
+	<Build level="90" targetVersion="3_0" pantheonMajorGod="None" bandit="Alira" className="Ranger" ascendClassName="Raider" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="None">
+		<PlayerStat stat="AverageDamage" value="33910.753224283"/>
+		<PlayerStat stat="Speed" value="3.705"/>
+		<PlayerStat stat="Speed" value="3.705"/>
+		<PlayerStat stat="Speed" value="3.705"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="47.5728"/>
+		<PlayerStat stat="CritChance" value="47.5728"/>
+		<PlayerStat stat="CritMultiplier" value="3.19"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="142961.52444794"/>
-		<PlayerStat stat="TotalDPS" value="142961.52444794"/>
+		<PlayerStat stat="TotalDPS" value="125639.34069597"/>
+		<PlayerStat stat="TotalDPS" value="125639.34069597"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="142961.52444794"/>
-		<PlayerStat stat="IgniteDPS" value="2300.625"/>
-		<PlayerStat stat="IgniteDamage" value="9202.5"/>
-		<PlayerStat stat="WithIgniteDPS" value="145262.14944794"/>
-		<PlayerStat stat="WithPoisonDPS" value="142961.52444794"/>
-		<PlayerStat stat="TotalDotDPS" value="2300.625"/>
-		<PlayerStat stat="CullingDPS" value="16140.238827549"/>
-		<PlayerStat stat="CombinedDPS" value="161402.38827549"/>
-		<PlayerStat stat="CombinedAvg" value="142961.52444794"/>
+		<PlayerStat stat="WithBleedDPS" value="125639.34069597"/>
+		<PlayerStat stat="IgniteDPS" value="2131.875"/>
+		<PlayerStat stat="IgniteDamage" value="8527.5"/>
+		<PlayerStat stat="WithIgniteDPS" value="127771.21569597"/>
+		<PlayerStat stat="WithPoisonDPS" value="125639.34069597"/>
+		<PlayerStat stat="TotalDotDPS" value="2131.875"/>
+		<PlayerStat stat="CullingDPS" value="14196.801743996"/>
+		<PlayerStat stat="CombinedDPS" value="141968.01743996"/>
+		<PlayerStat stat="CombinedAvg" value="125639.34069597"/>
 		<PlayerStat stat="ManaCost" value="49"/>
 		<PlayerStat stat="LifeCost" value="0"/>
 		<PlayerStat stat="ESCost" value="0"/>
@@ -31,25 +31,25 @@
 		<PlayerStat stat="ReqStr" value="98"/>
 		<PlayerStat stat="Dex" value="323"/>
 		<PlayerStat stat="ReqDex" value="197"/>
-		<PlayerStat stat="Int" value="94"/>
+		<PlayerStat stat="Int" value="104"/>
 		<PlayerStat stat="ReqInt" value="111"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="Life" value="3914"/>
+		<PlayerStat stat="Life" value="3807"/>
 		<PlayerStat stat="Spec:LifeInc" value="127"/>
-		<PlayerStat stat="LifeUnreserved" value="3914"/>
+		<PlayerStat stat="LifeUnreserved" value="3807"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
-		<PlayerStat stat="LifeRegen" value="56.3616"/>
-		<PlayerStat stat="LifeLeechGainRate" value="721.056"/>
-		<PlayerStat stat="Mana" value="621"/>
+		<PlayerStat stat="LifeRegen" value="54.8208"/>
+		<PlayerStat stat="LifeLeechGainRate" value="700.08"/>
+		<PlayerStat stat="Mana" value="626"/>
 		<PlayerStat stat="Spec:ManaInc" value="0"/>
-		<PlayerStat stat="ManaUnreserved" value="96.18"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="15.487922705314"/>
-		<PlayerStat stat="ManaRegen" value="10.9"/>
-		<PlayerStat stat="ManaLeechGainRate" value="132.468"/>
-		<PlayerStat stat="TotalDegen" value="156.56"/>
-		<PlayerStat stat="TotalNetRegen" value="-89.2984"/>
-		<PlayerStat stat="NetLifeRegen" value="-100.1984"/>
-		<PlayerStat stat="NetManaRegen" value="10.9"/>
+		<PlayerStat stat="ManaUnreserved" value="97.18"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="15.523961661342"/>
+		<PlayerStat stat="ManaRegen" value="16"/>
+		<PlayerStat stat="ManaLeechGainRate" value="132.61"/>
+		<PlayerStat stat="TotalDegen" value="152.28"/>
+		<PlayerStat stat="TotalNetRegen" value="-81.4592"/>
+		<PlayerStat stat="NetLifeRegen" value="-97.4592"/>
+		<PlayerStat stat="NetManaRegen" value="16"/>
 		<PlayerStat stat="NetEnergyShieldRegen" value="0"/>
 		<PlayerStat stat="Ward" value="0"/>
 		<PlayerStat stat="EnergyShield" value="0"/>
@@ -64,22 +64,22 @@
 		<PlayerStat stat="Armour" value="32398"/>
 		<PlayerStat stat="Spec:ArmourInc" value="0"/>
 		<PlayerStat stat="PhysicalDamageReduction" value="84"/>
-		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.3"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.7"/>
 		<PlayerStat stat="BlockChance" value="0"/>
 		<PlayerStat stat="SpellBlockChance" value="0"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
 		<PlayerStat stat="SpellSuppressionChance" value="96"/>
-		<PlayerStat stat="FireResist" value="65"/>
-		<PlayerStat stat="FireResistOverCap" value="0"/>
-		<PlayerStat stat="ColdResist" value="65"/>
-		<PlayerStat stat="ColdResistOverCap" value="0"/>
-		<PlayerStat stat="LightningResist" value="24"/>
+		<PlayerStat stat="FireResist" value="75"/>
+		<PlayerStat stat="FireResistOverCap" value="25"/>
+		<PlayerStat stat="ColdResist" value="75"/>
+		<PlayerStat stat="ColdResistOverCap" value="25"/>
+		<PlayerStat stat="LightningResist" value="59"/>
 		<PlayerStat stat="LightningResistOverCap" value="0"/>
-		<PlayerStat stat="ChaosResist" value="-20"/>
+		<PlayerStat stat="ChaosResist" value="32"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="FullDPS" value="0"/>
-		<PlayerStat stat="SkillDPS" value="table: 0x17c87a98"/>
+		<PlayerStat stat="SkillDPS" value="table: 0x1a55e400"/>
 		<PlayerStat stat="PowerCharges" value="0"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="7"/>
@@ -130,8 +130,8 @@
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="anger precision grace" groupCount="nil" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Grace" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemGrace" quality="0" enabled="true" count="1" nameSpec="Grace"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Anger" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemAnger" quality="0" enabled="true" count="1" nameSpec="Anger"/>
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="AccuracyAndCritsAura" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPrecision" quality="0" enabled="true" count="1" nameSpec="Precision"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Anger" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemAnger" quality="0" enabled="true" count="1" nameSpec="Anger"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SnipersMark" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemProjectileWeakness" quality="0" enabled="true" count="1" nameSpec="Sniper&apos;s Mark"/>
@@ -151,10 +151,10 @@
 		</Skill>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="1" masteryEffects="{44316,47642},{6427,42952},{3042,64381},{31039,61534},{49820,2474},{47212,1167},{53615,34383},{58563,2800},{58302,51147}" nodes="5237,49820,48614,55750,27656,58302,41119,64265,31222,1325,27788,58921,41866,65210,11597,42964,2715,8001,20807,32514,9206,12146,27536,3314,23912,2094,29937,40362,31364,62744,60803,63194,29454,32555,23951,4849,30455,54142,9469,51881,10843,12948,65502,8544,42104,31471,22266,32117,24083,53421,36221,53615,50338,58271,36287,63251,14292,25260,2185,47212,57449,32763,39665,49900,18103,16848,6797,6538,11678,12794,16079,19858,6427,31039,58427,49621,14804,50459,61834,48099,18770,41595,8458,65224,10661,6799,58563,34678,60735,903,39821,37504,8620,23066,44316,5926,6363,27325,38662,94,16544,26528,44306,3042,57080,38995,6542,3187,23334,42443,30679,1461,46277,59220,56295,16213,21228,49459,12412,29933,38149,19069,54127" treeVersion="3_16" classId="2">
+		<Spec ascendClassId="1" masteryEffects="{44316,47642},{6427,42952},{3042,64381},{19725,31331},{31039,61534},{49820,2474},{47212,1167},{53615,34383},{58563,2800},{58302,51147}" nodes="22266,32117,5237,59220,49820,18182,48614,55750,51235,36221,27656,58302,50338,58271,54127,63251,14292,1427,64265,31222,1325,6363,56295,27788,47212,58921,41119,25260,94,57449,19725,41866,2715,24083,49900,53421,27325,18103,16848,65210,11597,46277,23066,12794,20807,1461,16079,19858,8001,38149,30679,29933,31039,49621,6542,58427,32514,44306,27536,14804,50459,61834,57080,12146,18770,48099,3314,41595,10661,18707,8458,2094,29937,60735,40362,6799,34678,44316,31364,15842,903,58563,3187,21228,39821,16213,60803,63194,42443,29454,5926,32555,8620,11678,62744,16544,26528,3042,12412,23951,9206,4849,38995,30455,54142,9469,36287,37504,10843,30894,38662,12948,65502,6538,6427,49459,8544,53615,42104,19069,31471" treeVersion="3_16" classId="2">
 			<EditedNodes/>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIBeRR1wpy95tnGbAjjvqCf-wl59gUtbIzmKaOK_rotTafUCpsfQVFHfwIj9i9ya5AM8l1oCC508Z2qeoT1GO2D9tpzDn8rXY8S8Xb3034k_cqpKlsylP_eIWCkeHrvVvp9dV4T0K2NfdFvxKLjn42_9xM31GKsCIm4bOBpf_ua8cLsRrdB0BqNGYotnjH6Ps9NkhkbeT_B1TnU8Yq740lSonshCv7IKaUaj-TDh3btPwOHm42SgCGsWhqtHBcmGNtqvZcGAF5AoGegrRIL4t74mFMZjgxzWyaly3fXBbW0xedU2-c_VVLswTMwfHTtlQVKfdNvAAkJqsKcx8vjvoZP0W8Ej7hsp8gZG_BeeT8K8OTDuhqtHPt9C-I=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIBd1b6fXUUdedUwpxHBr3m2cbII419bAjjvsSi45_Tb_cTN9QFk_sJefYFLRjb2-dsjLhs5imgn2KsAF7gaU0No4oKm14TwuzQrWq9RrdB0P66LU20xVoaMfpRRwW1Ps9Nkh9BlQV313TteT_B1RmOfwKtEmuQOdTxit74L3JJUrvjDPKieymlSRMhCggudPHtP52qGo-Hdq0ceoQ94gOH5MMMc1Lsm40_Ve2D9tqly3MOFyZ_KyGsLZ71GECgZ6AL4jB8XY8j9hLxmFN299N-JP2Nv5KAKlt4rpcGMpT_3hmKGRvBMyFg0W-keEp9eu8ACgmqwpzHy-O-BI-4bHpjTQ3wXnk_uhqtHArw5MP7fQvip8gZG4ZP0W8=
 			</URL>
 			<Sockets>
 				<Socket nodeId="61834" itemId="16"/>
@@ -169,7 +169,7 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="-331.96460059911" showHeatMap="false" zoomLevel="6" showStatDifferences="true" zoomX="-1027.4013543408"/>
+	<TreeView searchStr="" zoomY="-13.77504124" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="-894.087875284"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="3">
 			Rarity: RARE
@@ -449,7 +449,7 @@ Implicits: 0
 			<ModRange range="0.5" id="8"/>
 		</Item>
 		<Slot name="Weapon 1" itemId="9"/>
-		<Slot name="Flask 3" itemId="13"/>
+		<Slot active="true" name="Flask 3" itemId="13"/>
 		<Slot name="Gloves" itemId="4"/>
 		<Slot name="Belt" itemId="10"/>
 		<Slot name="Helmet" itemId="7"/>
@@ -469,7 +469,7 @@ Implicits: 0
 			<Slot name="Boots Abyssal Socket 5" itemId="0"/>
 			<Slot name="Weapon 1Swap Abyssal Socket 2" itemId="0"/>
 			<Slot name="Belt Abyssal Socket 2" itemId="0"/>
-			<Slot name="Flask 3" itemId="13"/>
+			<Slot active="true" name="Flask 3" itemId="13"/>
 			<Slot name="Weapon 2Swap Abyssal Socket 3" itemId="0"/>
 			<Slot name="Weapon 1 Abyssal Socket 5" itemId="0"/>
 			<Slot name="Weapon 2 Abyssal Socket 5" itemId="0"/>
