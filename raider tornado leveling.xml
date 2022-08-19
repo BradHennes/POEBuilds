@@ -77,7 +77,7 @@
 		<PlayerStat stat="ChaosResist" value="-60"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="FullDPS" value="0"/>
-		<PlayerStat stat="SkillDPS" value="table: 0x1a251428"/>
+		<PlayerStat stat="SkillDPS" value="table: 0x1e15e770"/>
 		<PlayerStat stat="PowerCharges" value="0"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="5"/>
@@ -140,10 +140,10 @@
 		</Skill>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="1" masteryEffects="{19050,22056},{44316,47642},{7023,13267},{49820,2474},{3042,64381},{20730,42014},{31039,61534},{58302,51147},{47212,1167},{53615,34383},{58563,2800},{31197,44869}" nodes="22266,32117,5237,36281,49820,20730,48614,5926,25775,53615,58302,50338,58271,36287,63251,14292,41119,62712,64265,25260,57199,27788,5629,50150,30745,41866,49900,17908,5622,65210,6538,12794,19050,31197,2715,19858,8001,7023,31039,15614,35384,58427,9206,38662,14804,50459,49568,36221,1405,18770,41595,45035,61327,27325,25209,16079,6799,58563,44316,40362,1461,59866,60735,31364,30679,903,41250,62744,47212,20807,54142,45436,3424,42178,29454,26528,3187,32555,34678,63194,8620,49621,5802,3042,36225,12412,54791,57080,38995,30455,6,9469,4656,37504,24432,465,46277,30626,65502,33645,59220,41536,51404,48099,42104,19069,64878" treeVersion="3_16" classId="2">
+		<Spec ascendClassId="1" masteryEffects="{19050,22056},{31197,44869},{20730,42014},{49820,2474},{3042,64381},{58302,51147},{31039,61534},{7023,13267},{47212,1167},{53615,34383},{58563,2800},{44316,47642}" nodes="22266,32117,5237,36281,49820,20730,48614,5926,25775,53615,58302,50338,58271,36287,63251,14292,41119,62712,64265,25260,57199,27788,5629,50150,30745,41866,49900,17908,5622,65210,45035,12794,19050,31197,16079,19858,8001,41536,31039,15614,35384,58427,64878,9206,36221,14804,50459,49568,48099,1405,18770,41595,59220,33645,25209,65502,6799,58563,30626,40362,46277,59866,60735,31364,20807,903,7023,62744,24432,37504,4656,42178,3424,6,29454,26528,3187,32555,34678,54791,12412,36225,5802,3042,49621,8620,63194,57080,38995,30455,54142,9469,45436,30679,1461,465,38662,47212,27325,61327,41250,2715,51404,6538,42104,19069,44316" treeVersion="3_16" classId="2">
 			<EditedNodes/>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgIBaVb6fXUUdY25wpxQ-r3mFyZkr9Fv477EouOfjb_3EzfUoJ_0-PsJYqzfb2yMFf3D5ngZo4rC7EX0Ffb-uhmKMfpKanndCptNkh9BG295Pzz-ijgj9pcGOdTBoI19BX1JUqJ7r-vvj2q9Ynk-zxqP5MOtHJ2qBbXp2u0_eoR31wOHoSL1GLhsUUfTfrF8DWCkwnMOZ6AMc38rh3b22iGswdUWqgvijYEwfNYH3viYU3b3AAYk_RIwkoBfcAHRtMV3ov_eg23nVKJAyMy746R4Sn39bgAMCarCnKQeUPqGT9Fvx8vjvlYoSmqvRXndM9Mbb_BeeT8K8OTDuhqtHASPuGz7fQvi
+				https://www.pathofexile.com/passive-skill-tree/AAAABgIBaVb6fXUUdY25wpxQ-r3mFyZkr9Fv477EouOfjb_3EzfUoJ_0-PsJYqzfb2yMFf3D5ngZo4rC7EX0Ffb-uq_rMfpKanndPs9Nkh9BokB5Pzz-ijj9biP2jX051MGgu-MFfUlSonvnVINtYnn_3hqP5MN3op2qtMXp2u0_eoRRRwOHG2_1GF9wkoASMKTCDWAABnMOZ6AMc38rh3bWBzB8jYEWqgviwdUhrPba3viYU3b3034k_bF8d9cFtQHRlwa4bGq974-hIgqbyMwZiqR4Sn2tHAAMCarCnKQeUPqGT9Fvx8vjvlYoSmqvRXnd8F55Pwrw5MMz0xtv-30L4gSPuGy6Gq0c
 			</URL>
 			<Sockets/>
 		</Spec>
@@ -151,7 +151,7 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="elusive" zoomY="-588.44504148462" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="-729.48138647622"/>
+	<TreeView searchStr="elusive" zoomY="-356.44504148462" showHeatMap="false" zoomLevel="5" showStatDifferences="true" zoomX="-894.48138647622"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			Rarity: RARE
@@ -252,8 +252,8 @@ Adds 44 to 82 Cold Damage
 		<Input name="useFrenzyCharges" boolean="true"/>
 		<Input name="configResonanceCount" number="50"/>
 		<Input name="enemyIsBoss" string="Sirus"/>
-		<Input name="buffElusive" boolean="true"/>
-		<Input name="projectileDistance" number="20"/>
 		<Input name="conditionBeenHitByAttackRecently" boolean="true"/>
+		<Input name="projectileDistance" number="20"/>
+		<Input name="buffElusive" boolean="true"/>
 	</Config>
 </PathOfBuilding>
