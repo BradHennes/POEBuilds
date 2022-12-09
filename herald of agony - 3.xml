@@ -27,57 +27,57 @@
 		<PlayerStat stat="LifePercentPerSecondCost" value="0"/>
 		<PlayerStat stat="ESPerSecondCost" value="0"/>
 		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
-		<PlayerStat stat="Str" value="127"/>
-		<PlayerStat stat="ReqStr" value="155"/>
-		<PlayerStat stat="Dex" value="47"/>
+		<PlayerStat stat="Str" value="37"/>
+		<PlayerStat stat="ReqStr" value="111"/>
+		<PlayerStat stat="Dex" value="127"/>
 		<PlayerStat stat="ReqDex" value="155"/>
-		<PlayerStat stat="Int" value="295"/>
+		<PlayerStat stat="Int" value="335"/>
 		<PlayerStat stat="ReqInt" value="155"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="TotalEHP" value="5172"/>
-		<PlayerStat stat="PhysicalMaximumHitTaken" value="10734.285714286"/>
-		<PlayerStat stat="LightningMaximumHitTaken" value="2555.7823129252"/>
-		<PlayerStat stat="FireMaximumHitTaken" value="2555.7823129252"/>
-		<PlayerStat stat="ColdMaximumHitTaken" value="2555.7823129252"/>
-		<PlayerStat stat="ChaosMaximumHitTaken" value="5391.3043478261"/>
-		<PlayerStat stat="Life" value="2480"/>
-		<PlayerStat stat="Spec:LifeInc" value="110"/>
-		<PlayerStat stat="LifeUnreserved" value="2480"/>
-		<PlayerStat stat="LifeRecoverable" value="2480"/>
+		<PlayerStat stat="TotalEHP" value="6630.7692307692"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="1284"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="802.5"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="802.5"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="802.5"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="inf"/>
+		<PlayerStat stat="Life" value="1"/>
+		<PlayerStat stat="Spec:LifeInc" value="5"/>
+		<PlayerStat stat="LifeUnreserved" value="1"/>
+		<PlayerStat stat="LifeRecoverable" value="1"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
-		<PlayerStat stat="LifeRegenRecovery" value="46.872"/>
+		<PlayerStat stat="LifeRegenRecovery" value="0"/>
 		<PlayerStat stat="LifeLeechGainRate" value="0"/>
-		<PlayerStat stat="Mana" value="969"/>
-		<PlayerStat stat="Spec:ManaInc" value="28"/>
-		<PlayerStat stat="ManaUnreserved" value="145"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="14.963880288958"/>
-		<PlayerStat stat="ManaRegenRecovery" value="17"/>
+		<PlayerStat stat="Mana" value="839"/>
+		<PlayerStat stat="Spec:ManaInc" value="8"/>
+		<PlayerStat stat="ManaUnreserved" value="41"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="4.8867699642431"/>
+		<PlayerStat stat="ManaRegenRecovery" value="18.4"/>
 		<PlayerStat stat="ManaLeechGainRate" value="0"/>
 		<PlayerStat stat="Ward" value="0"/>
-		<PlayerStat stat="EnergyShield" value="1277"/>
-		<PlayerStat stat="EnergyShieldRecoveryCap" value="1277"/>
-		<PlayerStat stat="Spec:EnergyShieldInc" value="176"/>
-		<PlayerStat stat="EnergyShieldRegenRecovery" value="116.62"/>
+		<PlayerStat stat="EnergyShield" value="1283"/>
+		<PlayerStat stat="EnergyShieldRecoveryCap" value="1283"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="216"/>
+		<PlayerStat stat="EnergyShieldRegenRecovery" value="116.98"/>
 		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
-		<PlayerStat stat="Evasion" value="16"/>
-		<PlayerStat stat="Spec:EvasionInc" value="0"/>
-		<PlayerStat stat="MeleeEvadeChance" value="0"/>
-		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
-		<PlayerStat stat="Armour" value="10066"/>
-		<PlayerStat stat="Spec:ArmourInc" value="119"/>
-		<PlayerStat stat="PhysicalDamageReduction" value="65"/>
+		<PlayerStat stat="Evasion" value="7150"/>
+		<PlayerStat stat="Spec:EvasionInc" value="89"/>
+		<PlayerStat stat="MeleeEvadeChance" value="44"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="44"/>
+		<PlayerStat stat="Armour" value="0"/>
+		<PlayerStat stat="Spec:ArmourInc" value="0"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="0"/>
 		<PlayerStat stat="BlockChance" value="15"/>
 		<PlayerStat stat="SpellBlockChance" value="0"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
-		<PlayerStat stat="SpellSuppressionChance" value="0"/>
-		<PlayerStat stat="FireResist" value="-47"/>
+		<PlayerStat stat="SpellSuppressionChance" value="69"/>
+		<PlayerStat stat="FireResist" value="-60"/>
 		<PlayerStat stat="FireResistOverCap" value="0"/>
-		<PlayerStat stat="ColdResist" value="-47"/>
+		<PlayerStat stat="ColdResist" value="-60"/>
 		<PlayerStat stat="ColdResistOverCap" value="0"/>
-		<PlayerStat stat="LightningResist" value="-47"/>
+		<PlayerStat stat="LightningResist" value="-60"/>
 		<PlayerStat stat="LightningResistOverCap" value="0"/>
-		<PlayerStat stat="ChaosResist" value="54"/>
+		<PlayerStat stat="ChaosResist" value="46"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="EffectiveMovementSpeedMod" value="0.97"/>
 		<PlayerStat stat="FullDPS" value="0"/>
@@ -88,18 +88,18 @@
 		<PlayerStat stat="FrenzyChargesMax" value="3"/>
 		<PlayerStat stat="EnduranceCharges" value="0"/>
 		<PlayerStat stat="EnduranceChargesMax" value="3"/>
-		<MinionStat stat="AverageDamage" value="243257.84097844"/>
-		<MinionStat stat="Speed" value="2.8307692307692"/>
-		<MinionStat stat="Speed" value="2.8307692307692"/>
-		<MinionStat stat="TotalDPS" value="688606.81138512"/>
+		<MinionStat stat="AverageDamage" value="218020.79094965"/>
+		<MinionStat stat="Speed" value="2.7076923076923"/>
+		<MinionStat stat="Speed" value="2.7076923076923"/>
+		<MinionStat stat="TotalDPS" value="590333.21857135"/>
 		<MinionStat stat="TotalDot" value="0"/>
-		<MinionStat stat="WithBleedDPS" value="688606.81138512"/>
-		<MinionStat stat="WithIgniteDPS" value="688606.81138512"/>
-		<MinionStat stat="PoisonDPS" value="160151.577768"/>
-		<MinionStat stat="PoisonDamage" value="471034.05225882"/>
-		<MinionStat stat="WithPoisonDPS" value="1981993.8521106"/>
-		<MinionStat stat="TotalDotDPS" value="1293387.0407255"/>
-		<MinionStat stat="CombinedDPS" value="1981993.8521106"/>
+		<MinionStat stat="WithBleedDPS" value="590333.21857135"/>
+		<MinionStat stat="WithIgniteDPS" value="590333.21857135"/>
+		<MinionStat stat="PoisonDPS" value="141609.760929"/>
+		<MinionStat stat="PoisonDamage" value="416499.29685"/>
+		<MinionStat stat="WithPoisonDPS" value="1684252.6025442"/>
+		<MinionStat stat="TotalDotDPS" value="1093919.3839728"/>
+		<MinionStat stat="CombinedDPS" value="1684252.6025442"/>
 		<MinionStat stat="Life" value="4244"/>
 		<MinionStat stat="LifeRegenRecovery" value="0"/>
 		<MinionStat stat="LifeLeechGainRate" value="0"/>
@@ -168,21 +168,20 @@
 			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" mainActiveSkill="1">
 				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="FleshOffering" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemFleshOffering" quality="0" enabled="true" count="1" nameSpec="Flesh Offering"/>
 			</Skill>
-			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" mainActiveSkill="2">
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" mainActiveSkill="1">
 				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="SupportChanceToPoison" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemLesserPoison" quality="0" enabled="true" count="1" nameSpec="Chance to Poison"/>
 				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="SupportFasterCast" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemFasterCast" quality="0" enabled="true" count="1" nameSpec="Faster Casting"/>
-				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="ConduitSigil" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemStormBrand" quality="0" enabled="true" skillPartCalcs="1" count="1" nameSpec="Storm Brand" skillMinion="SummonedPhantasm"/>
-				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="SupportRapidActivation" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemSwiftbrand" quality="0" enabled="true" count="1" nameSpec="Swiftbrand"/>
+				<Gem enableGlobal2="true" skillMinionSkillCalcs="1" level="20" enableGlobal1="true" skillId="ConduitSigil" skillMinionSkill="1" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemStormBrand" quality="0" enabled="true" skillPartCalcs="1" count="1" nameSpec="Storm Brand" skillMinion="SummonedPhantasm"/>
 			</Skill>
 			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" mainActiveSkill="1">
-				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="Determination" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemDetermination" quality="0" enabled="true" count="1" nameSpec="Determination"/>
+				<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="Grace" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemGrace" quality="0" enabled="true" count="1" nameSpec="Grace"/>
 			</Skill>
 		</SkillSet>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec ascendClassId="1" masteryEffects="{25281,64381},{23547,59574},{52462,59936},{30393,16215},{43647,40073}" nodes="58556,31344,39841,7444,54447,60472,20987,23027,21984,367,57226,44362,27203,31316,5018,63447,6685,61653,33310,27659,47949,65872,26196,49605,5743,7960,27137,50862,21958,65880,52655,22618,7335,61320,44360,65562,38176,15117,21929,61419,23547,16218,30393,8948,29381,21413,41876,48124,11984,52462,35958,50422,25332,5296,18865,35706,18769,26620,17018,60440,21678,55247,15046,64355,48778,46897,21033,44184,36858,26270,1822,41263,58218,38836,14936,4270,23659,15405,65560,9386,9370,33631,65552,27096,43647,38906,50570,36678,3167,25309,64210,37492,65882,29106,27929,50029,34171,38190,25281,63799,14057,33864,32417,44202,40508,58032,56671,32210,52502,49651,19501,18378,4367,46636,2292,37671" treeVersion="3_19" classId="3">
+		<Spec ascendClassId="1" masteryEffects="{23547,59574},{27307,31556}" nodes="16218,31344,39841,54447,20987,46092,21984,367,57226,19501,56295,36287,63251,27307,14211,22473,33864,51923,60090,63447,58244,47949,65872,14182,49605,42731,7960,7503,4432,6685,65880,42795,49900,55643,6949,39861,33989,48698,59650,65562,44362,61419,41263,65560,4219,52502,60259,29381,56090,41876,48124,52655,1767,22618,19374,33783,11455,5296,15117,35706,61834,49978,26620,9769,60440,46277,64355,48778,59606,21033,44184,32710,27659,1648,31316,11811,49408,27929,4270,8938,62744,13322,3452,23659,44360,65552,27096,29454,50029,25309,36678,37492,11018,4502,27415,65882,18182,9370,49515,32417,41989,24067,18770,32176,17018,23547,1461,8948,56671,3656,35255,33310,18378,4367,27656,62795,37671" treeVersion="3_19" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMBbOS8enCboR0U7DhR-1nzVeABb9-KrUpqQ3pUE5r31xod8NWCHmwLu01mVMHFFm8fGGoBxq5Vxs2vWFocp--IrUiVIDsNVanv61v7P1p2uSL0csVTpaOUu_wu0MzujHbE9mL0FLBJsYt6SVFn_EJ67BhUrtfPOsb7Y76KtzFSKayYj_pmngceoS_jape0OlgQrlxrPC0kqiSag19p2Kp_l_rFio9GDF9i3frSknRxsm0Zw22Fe5UuYsH5NzbphEh-oayqnjzisN1ffdLNFsHzTC0RD7YsCPSTJwYBUAFYABoAGAAQAVoF6LZb-z9XdrnqIMzunImqf_t9YsE=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMBbT9aenCboVH7tAxV4AFv34pMLdvnjb_3E2qrN4NXyYRIytPquvfX44S7TTdmwcWm6x8YHU8RUBodpyvC7NlbGyWbtYTFvjrpAq1K7-uhLxB7zRbrY3LF2xqjlLv8za8G51haS66D9yy_FLA7DYt68YrDOmf8JinsGLTF-2O-iujWUimsmH_GbAsGcHpULiPBAG0ZEK4i6vUYNAoNfFxrrUhp2HMOw21i3Y9GknQrChGWaxdHBiSawWt-oaQFXgNJUn2wQnpb-wW1IvTdXw5IibeCHhEPbAj1S5MnBgFQAVgAGgAYABABWgJ7RGqr6LZb-w==
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="6"/>
@@ -192,6 +191,7 @@
 				<Socket nodeId="55190" itemId="10"/>
 				<Socket nodeId="7960" itemId="9"/>
 				<Socket nodeId="26196" itemId="7"/>
+				<Socket nodeId="33989" itemId="10"/>
 				<Socket nodeId="61419" itemId="7"/>
 				<Socket nodeId="41263" itemId="7"/>
 				<Socket nodeId="41876" itemId="7"/>
@@ -202,7 +202,7 @@
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="unholy" zoomY="-2699.8462639576" showHeatMap="false" zoomLevel="12" showStatDifferences="true" zoomX="2559.7538369536"/>
+	<TreeView searchStr="energy shield" zoomY="379.66341940078" showHeatMap="false" zoomLevel="7" showStatDifferences="true" zoomX="-229.56819539918"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item variant="2" variantAlt="6" id="2">
 			Rarity: UNIQUE
@@ -244,30 +244,6 @@ Implicits: 1
 			<ModRange range="0.5" id="9"/>
 			<ModRange range="0.5" id="10"/>
 			<ModRange range="0.5" id="11"/>
-		</Item>
-		<Item id="3">
-			Rarity: RARE
-New Item
-Bone Helmet
-Armour: 272
-ArmourBasePercentile: 0.9889
-Energy Shield: 55
-EnergyShieldBasePercentile: 0.9722
-Crafted: true
-Prefix: None
-Prefix: None
-Prefix: None
-Suffix: None
-Suffix: None
-Suffix: None
-Quality: 20
-Sockets: B-B-B-B
-LevelReq: 73
-Implicits: 2
-{crafted}Summoned Agony Crawler fires 2 additional Projectiles
-{tags:damage,minion}{range:0.5}Minions deal (15-20)% increased Damage
-			<ModRange range="0.5" id="1"/>
-			<ModRange range="0.5" id="2"/>
 		</Item>
 		<Item id="4">
 			Rarity: UNIQUE
@@ -389,7 +365,6 @@ Poison you inflict is Reflected to you
 			<ModRange range="0.5" id="3"/>
 		</Item>
 		<Slot name="Weapon 1" itemId="4"/>
-		<Slot name="Helmet" itemId="3"/>
 		<Slot name="Weapon 2" itemId="4"/>
 		<Slot name="Body Armour" itemId="5"/>
 		<Slot name="Ring 1" itemId="2"/>
@@ -429,7 +404,7 @@ Poison you inflict is Reflected to you
 			<Slot name="Gloves Abyssal Socket 1" itemId="0"/>
 			<Slot name="Helmet Abyssal Socket 5" itemId="0"/>
 			<Slot name="Helmet Abyssal Socket 6" itemId="0"/>
-			<Slot name="Helmet" itemId="3"/>
+			<Slot name="Helmet" itemId="0"/>
 			<Slot name="Flask 1" itemId="0"/>
 			<Slot name="Gloves Abyssal Socket 5" itemId="0"/>
 			<Slot name="Body Armour Abyssal Socket 2" itemId="0"/>
